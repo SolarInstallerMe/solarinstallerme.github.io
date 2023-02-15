@@ -1,5 +1,5 @@
-title: "Solar Installer Near Me"
-email: rubylyn31429@gmail.com
+title: "Solar Installer"
+email: mrgabonijeff@gmail.com
 timezone: UTC
 baseurl: ""
 permalink: "/:title/"
@@ -24,8 +24,8 @@ ganalytics:
 # Authors
 authors:
   Ruby:
-    name: Ruby
-    display_name: Ruby
+    name: John
+    display_name: John
     avatar: "assets/images/ruby.jpg"
     email: rubylyn31429@gmail.com
     web: https://www.rubbiesvlog.xyz
