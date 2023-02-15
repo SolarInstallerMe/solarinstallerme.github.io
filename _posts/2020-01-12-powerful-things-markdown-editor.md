@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Powerful things you can do with the Markdown
+title: Powerful Markdown
 image: assets/images/4.jpg
 categories:
   - Jekyll
