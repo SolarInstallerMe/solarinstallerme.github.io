@@ -39,11 +39,11 @@
   }
 }
 
-.embed-responsive-4by3 {
-  &::before {
-    padding-top: percentage(3 / 4);
-  }
-}
+// .embed-responsive-4by3 {
+//   &::before {
+//     padding-top: percentage(3 / 4);
+//   }
+// }
 
 .embed-responsive-1by1 {
   &::before {
