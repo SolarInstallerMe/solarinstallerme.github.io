@@ -3,8 +3,7 @@ topmenu:
   - title: Home
     url: ""
 
-  - title: Contact
-    url: "contact/"
+ 
 
 # - title:
 #   url:
@@ -16,8 +15,4 @@ footermenu:
   - title: Home
     url: ""
 
-  - title: Privacy Policy
-    url: "privacy-policy/"
-
-  - title: Contact
-    url: "contact/"
+ 
