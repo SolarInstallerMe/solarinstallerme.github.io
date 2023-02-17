@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Things You Need to Know: Solar Installation"
-image: /assets/images/roofing-accents-solar-panels.png
+image: /assets/images/solar-installation.webp
 categories:
   - solar
 author: John
