@@ -45,4 +45,5 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-archives
-# url: "https://solarinstaller.me/" # the base hostname & protocol for your site
+
+url: "https://solarinstaller.me/" # the base hostname & protocol for your site
