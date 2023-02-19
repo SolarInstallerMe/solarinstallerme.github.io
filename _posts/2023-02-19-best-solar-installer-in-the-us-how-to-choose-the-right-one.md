@@ -12,7 +12,7 @@ Solar energy is a clean and renewable source of energy that has become increasin
 
 ### Top Solar Installers in the US
 
-The top solar installers in the US include Sunrun, Vivint Solar, Tesla Solar, SunPower, and LG Solar. Sunrun is the largest residential solar company in the US, while Vivint Solar has a reputation for exceptional customer service. [Tesla](https://solarinstaller.me/categories/#tesla) Solar is known for its high-quality solar panels, while SunPower is recognized for its high energy output and efficiency. LG Solar is a global leader in solar panel manufacturing and is known for its durable and reliable products.
+The top solar installers in the US include [Sunrun](https://www.sunrun.com/solar-plans-and-services), [Vivint Solar](https://www.jnadealerprogram.com/blog/vivint-package/), [Tesla Solar](https://www.tesla.com/solarpanels), SunPower, and LG Solar. Sunrun is the largest residential solar company in the US, while Vivint Solar has a reputation for exceptional customer service. [Tesla](https://solarinstaller.me/categories/#tesla) Solar is known for its high-quality solar panels, while SunPower is recognized for its high energy output and efficiency. LG Solar is a global leader in solar panel manufacturing and is known for its durable and reliable products.
 
 <﻿br/>
 
@@ -92,7 +92,7 @@ The best solar installers use high-quality solar panels and equipment that are e
 
 The best solar installers provide professional installation and maintenance services to ensure that your solar energy system is installed correctly and maintained over time.
 
-###  Reliable and Efficient Solar Energy System
+### Reliable and Efficient Solar Energy System
 
 The best solar installers will design and install a solar energy system that is reliable and efficient, providing you with clean and renewable energy for years to come.
 
@@ -104,8 +104,8 @@ A well-designed and installed solar energy system can significantly [reduce your
 
 The best solar installers provide warranties and maintenance plans that offer peace of mind, ensuring that your solar energy system is protected and maintained over time.
 
-
 <﻿br/>
+
 ### Conclusion
 
 Choosing the best solar installer in the US requires thorough research, consideration of multiple factors, and a willingness to compare and contrast different options. With the right solar installer, you can enjoy the numerous benefits of clean, renewable solar energy. Remember to consider the quality of equipment, experience and reputation, warranty and maintenance, financing options, and licenses and certifications when choosing the best solar installer for your needs.
