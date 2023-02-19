@@ -14,5 +14,6 @@ topmenu:
 footermenu:
   - title: Home
     url: ""
-
+ - title: Privacy Policy
+    url: ""
  
