@@ -4,6 +4,7 @@ title: "Tesla Superchargers: How Does It Works?"
 image: /assets/images/tesla-superchargers-how-does-it-works-header.png
 categories:
   - solar
+  - Tesla
 author: John
 ---
 [Tesla Superchargers](https://www.tesla.com/supercharger) are a network of high-speed charging stations designed specifically for Tesla electric vehicles. These charging stations can charge Tesla vehicles at a much faster rate than standard charging options, allowing Tesla owners to quickly recharge their vehicles on long road trips or during other extended travel.
