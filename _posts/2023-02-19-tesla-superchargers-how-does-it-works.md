@@ -30,13 +30,9 @@ It's worth noting that while Tesla Superchargers provide fast and convenient cha
 
 Tesla Superchargers are located in various countries around the world, with more being added regularly as Tesla continues to expand its charging network. The easiest way to find a Tesla Supercharger location near you is to use the Tesla Supercharger map on their website.
 
-To use the map, simply go to the Tesla website and click on the "Find Us" button in the top right corner. From there, select "Supercharger" from the menu, and you will be taken to the Supercharger map. You can then search for Superchargers by location, or use the map to find Superchargers along your planned route.
-
-
+To use the map, simply go to the Tesla website and click on the "[Find Us](https://www.tesla.com/en_eu/findus?v=2&bounds=50.59576540423062%2C-65.51660275%2C27.486795548629846%2C-133.01660275&zoom=5&filters=store%2Cservice%2Csupercharger%2Cdestination%20charger%2Cbodyshop%2Cparty)" button in the top right corner. From there, select "Supercharger" from the menu, and you will be taken to the Supercharger map. You can then search for Superchargers by location, or use the map to find Superchargers along your planned route.
 
 ![Supercharger map](/assets/images/superchargers-usa.webp "Supercharger map")
-
-
 
 The Supercharger map displays all the available Superchargers, with icons showing the charging station's status and power output. You can click on an individual Supercharger to see more information, such as the number of charging stalls, the station's amenities, and nearby amenities like restaurants and shops.
 
