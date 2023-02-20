@@ -15,11 +15,12 @@ collections:
     fields: # The fields for each document, usually in front matter
       - { label: "Layout", name: "layout", widget: "hidden", default: "post" }
       - { label: "Title", name: "title", widget: "string" }
+      - { label: "Sticky", name: "featured", widget: "string" }
       - { label: "Featured", name: "image", widget: "image" }
       - { label: "Category", name: "categories", widget: "list" }
-      - { label: "Author", name: "author", widget: "string"}
-      - { label: 'Body', name: 'body', widget: 'markdown' }
-      
+      - { label: "Author", name: "author", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
+
   - name: "pages"
     label: "Pages"
     folder: "pages"
@@ -30,7 +31,5 @@ collections:
     fields: # The fields for each document, usually in front matter
       - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Permalink", name: "permalink", widget: "string"}
-      - { label: 'Body', name: 'body', widget: 'markdown' }
-      
-      
+      - { label: "Permalink", name: "permalink", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
