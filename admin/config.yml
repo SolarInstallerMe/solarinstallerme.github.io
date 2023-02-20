@@ -33,3 +33,13 @@ collections:
       - { label: "Permalink", name: "permalink", widget: "string"}
       - { label: 'Body', name: 'body', widget: 'markdown' }
       
+  - name: "menu"
+    label: "Menu"
+    folder: "_data"
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    editor:
+      preview: true
+    fields: # The fields for each document, usually in front matter
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+      
