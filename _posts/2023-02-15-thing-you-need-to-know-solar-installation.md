@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Things You Need to Know: Solar Installation"
+featured: "true"
 image: /assets/images/solar-installation.webp
 categories:
   - solar
