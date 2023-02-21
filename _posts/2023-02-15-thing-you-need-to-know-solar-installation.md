@@ -7,7 +7,9 @@ categories:
   - solar
 author: John
 ---
-Solar installation refers to the process of setting up solar panels or other solar energy systems to harness the power of the sun for electricity generation. Here are some key things you need to know about solar installation:
+
+Solar installation refers to the process of setting up solar panels or other solar energy systems to harness the power of the sun for electricity generation.
+Here are some key things you need to know about solar installation:
 
 ### Site assessment
 
