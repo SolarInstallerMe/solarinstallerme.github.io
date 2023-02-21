@@ -7,6 +7,7 @@ categories:
   - solar
 author: John
 ---
+
 Solar installation refers to the process of setting up solar panels or other solar energy systems to harness the power of the sun for electricity generation. Here are some key things you need to know about solar installation:
 
 ### Site assessment
@@ -32,6 +33,5 @@ Regular maintenance of a solar energy system is important to ensure optimal perf
 ### Cost and incentives
 
 The cost of a solar installation varies depending on the size and complexity of the system, but there are often government incentives and tax credits available to help offset the cost. It's important to do research and get quotes from multiple installers to ensure you're getting a fair price.
-
 
 Solar installation is the process of setting up solar panels or other solar energy systems to harness the power of the sun for electricity generation. Key things to consider when planning a solar installation include site assessment, equipment selection, the installation process, permits and regulations, maintenance, and cost and incentives. With careful planning and research, a solar installation can provide a reliable, renewable source of energy for homes and businesses, while also helping to reduce reliance on fossil fuels and protect the environment.
