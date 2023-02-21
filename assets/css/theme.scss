@@ -170,8 +170,9 @@ small,
 /* Pages
 ================================================== */
 .hero {
-  background: #c6f3b3;
+  background: #27233c;
   padding: 5rem 5rem;
+  color: #ccc;
 }
 
 @media only screen and (max-width: 1024px) {
@@ -202,6 +203,9 @@ small,
 
 .hero h1 {
   font-size: 2.5em;
+  color: #ccc;
+  font-weight: 700;
+  margin-bottom: 27px;
 }
 .section-title h2 {
   font-weight: 700;
