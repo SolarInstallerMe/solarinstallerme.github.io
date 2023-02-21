@@ -2,6 +2,4 @@
 .bundle
 .jekyll-cache
 .sass-cache
-.jekyll-metadata
 .git
-_sass
