@@ -1,6 +1,7 @@
 # frozen_string_literal: true
 
 source "https://rubygems.org"
+gem 'github-pages'
 
 
 # Hello! This is where you manage which Jekyll version is used to run.
