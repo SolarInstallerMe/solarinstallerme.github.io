@@ -1,7 +1,6 @@
 # frozen_string_literal: true
 
 source "https://rubygems.org"
-gem 'github-pages'
 
 
 # Hello! This is where you manage which Jekyll version is used to run.
@@ -21,6 +20,4 @@ group :jekyll_plugins do
     gem 'jekyll-archives'
     gem 'tzinfo-data'
     gem 'tzinfo'
-    
 end
-gem "webrick", "~> 1.7"
