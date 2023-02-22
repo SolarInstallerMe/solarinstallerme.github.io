@@ -48,7 +48,7 @@ Determine how much you need to borrow to finance your solar installation and mak
 
 Finally, you should research the reputation of the lender before taking out a solar loan. Look for reviews and ratings from other customers to see if the lender has a good track record of customer service and satisfaction.
 
-> Related: [What is Solar Net Metering and How Does it Work?](https://solarinstaller.me/what-is-solar-net-metering-and-how-does-it-work/)
+> Related: [What is Solar Net Metering and How Does it Work?](/what-is-solar-net-metering-and-how-does-it-work/)
 
 ### Benefits of Solar Loan
 
@@ -56,7 +56,7 @@ There are several benefits to taking out a solar loan to finance a solar panel i
 
 #### Lower energy costs
 
-By installing solar panels, you can generate your own electricity and reduce your reliance on the grid. This can lead to [lower energy costs](https://solarinstaller.me/are-solar-panels-a-good-investment-for-you/) over time, which can save you money on your monthly utility bills.
+By installing solar panels, you can generate your own electricity and reduce your reliance on the grid. This can lead to [lower energy costs](/are-solar-panels-a-good-investment-for-you/) over time, which can save you money on your monthly utility bills.
 
 #### Increased home value
 
@@ -148,7 +148,7 @@ If you're approved for a solar loan, review the loan agreement carefully and mak
 
 Work with the solar installer to schedule the installation of your solar panels. Make sure the installation is done properly and to your satisfaction.
 
-By following these steps, you can get started with applying for a solar loan and [installing solar panels](https://solarinstaller.me/thing-you-need-to-know-solar-installation/) on your home.
+By following these steps, you can get started with applying for a solar loan and [installing solar panels](/thing-you-need-to-know-solar-installation/) on your home.
 
 ### Conclusion
 
