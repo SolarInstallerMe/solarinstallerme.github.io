@@ -1,7 +1,10 @@
 # config.yml
 
 backend:
-  name: git-gateway
+  name: github
+  base_url: http://127.0.0.1:4000
+  site_domain: 127.0.0.1:4000
+  repo: SolarInstallerMe/solarinstallerme.github.io
   branch: master # Branch to update (optional; defaults to master)
 media_folder: "assets/images"
 collections:
