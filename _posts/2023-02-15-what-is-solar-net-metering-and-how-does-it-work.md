@@ -1,14 +1,14 @@
 ---
 layout: post
 title: What is Solar Net Metering and How Does it Work?
+featured: "false"
 image: /assets/images/solar-net-metering-2.0.webp
 categories:
   - solar
 author: John
 ---
-
-Solar Net Metering 2.0 is a billing arrangement that allows solar panel owners to receive credits for excess energy they generate and send back to the grid. This updated version of the net metering system may allow for higher compensation rates for excess energy, as well as the ability to roll over credits to future billing periods.
-The specific rules and regulations surrounding Solar Net Metering 2.0 can vary by state or utility company. It's important for potential solar panel owners to research and understand the net metering policies in their area before investing in a solar energy system.
+A Solar Net Metering 2.0 is a billing arrangement that allows solar panel owners to receive credits for the excess energy they generate and send back to the grid. This updated version of the net metering system may allow for higher compensation rates for excess energy, as well as the ability to roll over credits to future billing periods.
+The specific rules and regulations surrounding Solar Net Metering 2.0 can vary by state or utility company. It's important for potential solar panel owners to research and understand the net metering policies in their area before investing in a solar energy system 
 
 ### Benefits of Solar Net Metering
 
