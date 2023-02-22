@@ -1,11 +1,11 @@
 ---
 layout: post
 title: What is a Solar Loan?
+featured: "false"
 image: /assets/images/solar-loan.jpg
 categories:
   - solar
 author: John
-featured: true
 ---
 
 A solar loan is a type of financing that homeowners can use to pay for the installation of solar panels on their property. With a solar loan, homeowners can borrow money from a lender to cover the upfront costs of installing solar panels, which can then be paid back over time through fixed monthly payments.
