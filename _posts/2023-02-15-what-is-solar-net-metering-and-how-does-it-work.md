@@ -22,6 +22,8 @@ With the ability to roll over credits to future billing periods, solar panel own
 
 Some utilities may offer higher compensation rates for excess energy under the Solar Net Metering 2.0 system, providing a more significant financial incentive to invest in solar.
 
+
+
 > Related: [Things You Need to Know: Solar Installation](/thing-you-need-to-know-solar-installation/)
 
 #### Increased renewable energy use
