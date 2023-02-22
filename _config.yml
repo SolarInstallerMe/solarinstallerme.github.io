@@ -25,17 +25,10 @@ authors:
   Ruby:
     name: John
     display_name: John
-    avatar: "assets/images/ruby.jpg"
-    email: rubylyn31429@gmail.com
-    web: https://www.rubbiesvlog.xyz
-    twitter:
-    description: "Ruby is the Lifestyle Editor, covering food, entertaining, home decor, crafting, gardening, and holiday."
 
 # Social
 social:
-  instagram:
   facebook: https://www.facebook.com/solarinstallernearme
-  twitter:
 
 # Plugins
 plugins:
@@ -47,7 +40,3 @@ plugins:
 
 url: "https://solarinstaller.me" # the base hostname & protocol for your site
 
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - cache/
