@@ -1,11 +1,11 @@
 ---
-featured: false
 layout: post
-author: John
+title: A Comprehensive Guide to Different Solar Panel Types
+featured: "false"
 image: /assets/images/solar-panel-illustration.jpg
 categories:
-- solar
-title: A Comprehensive Guide to Different Solar Panel Types
+  - solar
+author: John
 ---
 
 When it comes to solar panels, there are three main types: monocrystalline, polycrystalline, and thin-film. Each type has its own unique advantages and disadvantages, and understanding these differences can help you make an informed decision when selecting solar panels for your home or business
