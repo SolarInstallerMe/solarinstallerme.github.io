@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Does Energy Storage Qualify for the Federal Tax Credit?
-featured: "false"
+featured: false
 image: /assets/images/benefits-of-battery-storage-and-the-federal-tax-credit.png
 categories:
   - solar

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Comprehensive Guide to Different Solar Panel Types
-featured: "false"
+featured: false
 image: /assets/images/solar-panel-illustration.jpg
 categories:
   - solar
@@ -18,31 +18,29 @@ Monocrystalline solar panels:
 
 Pros:
 
-* Higher efficiency: Monocrystalline solar panels typically have a higher efficiency rating, meaning they can generate more electricity per square foot of panel.
-* Better performance in low light: Monocrystalline panels perform better in low-light conditions, such as on cloudy days or in the early morning and late afternoon.
-* More aesthetically pleasing: Monocrystalline panels tend to have a darker, more uniform color that some people find more attractive than the speckled appearance of polycrystalline panels.
+- Higher efficiency: Monocrystalline solar panels typically have a higher efficiency rating, meaning they can generate more electricity per square foot of panel.
+- Better performance in low light: Monocrystalline panels perform better in low-light conditions, such as on cloudy days or in the early morning and late afternoon.
+- More aesthetically pleasing: Monocrystalline panels tend to have a darker, more uniform color that some people find more attractive than the speckled appearance of polycrystalline panels.
 
 Cons:
 
-* Higher cost: Monocrystalline panels are generally more expensive than polycrystalline panels, which can make them less cost-effective for some applications.
-* More fragile: Monocrystalline panels are made from a single crystal of silicon, which can be more brittle and prone to cracking than the multiple crystals used in polycrystalline panels.
-* More energy-intensive manufacturing: Monocrystalline panels require a more complex and energy-intensive manufacturing process than polycrystalline panels, which can make them less environmentally friendly.
+- Higher cost: Monocrystalline panels are generally more expensive than polycrystalline panels, which can make them less cost-effective for some applications.
+- More fragile: Monocrystalline panels are made from a single crystal of silicon, which can be more brittle and prone to cracking than the multiple crystals used in polycrystalline panels.
+- More energy-intensive manufacturing: Monocrystalline panels require a more complex and energy-intensive manufacturing process than polycrystalline panels, which can make them less environmentally friendly.
 
 Polycrystalline solar panels:
 
 Pros:
 
-* Lower cost: Polycrystalline panels are generally less expensive than monocrystalline panels, which can make them a more cost-effective option for some applications.
-* More durable: Polycrystalline panels are made from multiple crystals of silicon, which can make them more durable and resistant to damage than monocrystalline panels.
-* Lower energy-intensive manufacturing: Polycrystalline panels require a simpler and less energy-intensive manufacturing process than monocrystalline panels, which can make them more environmentally friendly.
+- Lower cost: Polycrystalline panels are generally less expensive than monocrystalline panels, which can make them a more cost-effective option for some applications.
+- More durable: Polycrystalline panels are made from multiple crystals of silicon, which can make them more durable and resistant to damage than monocrystalline panels.
+- Lower energy-intensive manufacturing: Polycrystalline panels require a simpler and less energy-intensive manufacturing process than monocrystalline panels, which can make them more environmentally friendly.
 
 Cons:
 
-* Lower efficiency: Polycrystalline panels typically have a lower efficiency rating than monocrystalline panels, meaning they generate less electricity per square foot of panel.
-* Worse performance in low light: Polycrystalline panels perform less efficiently in low-light conditions than monocrystalline panels, which can make them a less reliable option in certain situations.
-* Less aesthetically pleasing: Polycrystalline panels often have a speckled appearance due to the multiple crystals used in their construction, which some people may find less attractive than the uniform color of monocrystalline panels.
-
-
+- Lower efficiency: Polycrystalline panels typically have a lower efficiency rating than monocrystalline panels, meaning they generate less electricity per square foot of panel.
+- Worse performance in low light: Polycrystalline panels perform less efficiently in low-light conditions than monocrystalline panels, which can make them a less reliable option in certain situations.
+- Less aesthetically pleasing: Polycrystalline panels often have a speckled appearance due to the multiple crystals used in their construction, which some people may find less attractive than the uniform color of monocrystalline panels.
 
 ## Monocrystalline vs Polycrystalline Solar Panels: Which is Best for Your Needs?
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Determining the Right Number of Solar Panels for Your Home
-featured: "false"
+featured: false
 image: /assets/images/number-of-solar-panels-for-your-home.jpg
 categories:
   - solar

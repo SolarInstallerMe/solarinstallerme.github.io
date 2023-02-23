@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What is a Solar Loan?
-featured: "false"
+featured: false
 image: /assets/images/solar-loan.jpg
 categories:
   - solar

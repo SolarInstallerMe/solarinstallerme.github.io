@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tesla Superchargers: How Does It Works?"
-featured: "false"
+featured: false
 image: /assets/images/tesla-superchargers-how-does-it-works-header.png
 categories:
   - solar

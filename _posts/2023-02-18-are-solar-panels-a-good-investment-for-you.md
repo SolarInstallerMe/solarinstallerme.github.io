@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Are Solar Panels a Good Investment for You?
-featured: "false"
+featured: false
 image: /assets/images/solar-investment.png
 categories:
   - Solar
