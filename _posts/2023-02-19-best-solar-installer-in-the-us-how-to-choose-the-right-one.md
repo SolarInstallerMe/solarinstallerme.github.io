@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Best Solar Installer in the US: How to Choose the Right One"
+featured: "false"
 image: /assets/images/best-solar-installer-us.webp
 categories:
   - solar
