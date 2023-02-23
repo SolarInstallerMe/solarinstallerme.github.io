@@ -1,6 +1,7 @@
 ---
 layout: post
 title: What Is the Life Expectancy of a Solar Battery?
+featured: "false"
 image: /assets/images/solar-battery.jpg
 categories:
   - solar
