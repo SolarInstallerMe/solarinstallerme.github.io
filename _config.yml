@@ -37,6 +37,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-archives
+  - jekyll-loading-lazy
 
 url: "https://solarinstaller.me" # the base hostname & protocol for your site
 
