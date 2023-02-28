@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: post
 title: TikTok Franchise: A Lucrative Business Opportunity for the Digital Age
 description: a TikTok franchise might be just what you need. In this article, we'll explore the ins and outs of owning a TikTok franchise
+image: /assets/images/tiktok-franchise-opportunity.webp
 permalink: "/tiktok-franchise/"
 ---
 
