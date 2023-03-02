@@ -73,7 +73,7 @@ The [solar installation](https://solarinstaller.me/thing-you-need-to-know-solar-
 
 ### 4. Incentives and Rebates
 
-There are many incentives and rebates available to homeowners who install solar panels. These incentives can significantly reduce the overall cost of the system.
+There are many incentives and [rebates ](https://solarinstaller.me/understanding-solar-rebates-how-they-work-and-how-to-get-them/)available to homeowners who install solar panels. These incentives can significantly reduce the overall cost of the system.
 
 ## Conclusion
 
