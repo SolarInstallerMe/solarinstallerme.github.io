@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Understanding Affiliate Marketing - A Comprehensive Guide | A Free Virtual Event
+title: Affiliate Marketing | A Free Virtual Event
 description: Affiliate marketing - A Free Virtual Event is a digital marketing strategy that allows businesses to partner with affiliates who promote their products or services in exchange for a commission
 image: /assets/images/affiliate-marketing-a-free-virtual-event.jpg
 permalink: "/what-is-affiliate-marketing-a-free-virtual-event/"
