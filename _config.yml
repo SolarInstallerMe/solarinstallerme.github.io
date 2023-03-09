@@ -41,3 +41,5 @@ plugins:
 
 url: "https://solarinstaller.me" # the base hostname & protocol for your site
 
+gems:
+  - jekyll-tagging-related_posts

@@ -21,6 +21,7 @@ group :jekyll_plugins do
     gem 'tzinfo-data'
     gem 'tzinfo'
     gem 'jekyll-loading-lazy'
+    gem 'jekyll-tagging-related_posts'
  
    
 end
