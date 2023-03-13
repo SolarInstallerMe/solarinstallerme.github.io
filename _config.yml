@@ -40,4 +40,5 @@ plugins:
   - jekyll-loading-lazy
 
 url: "https://solarinstaller.me" # the base hostname & protocol for your site
-
+exclude :
+ - admin
