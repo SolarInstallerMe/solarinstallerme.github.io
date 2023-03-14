@@ -47,7 +47,7 @@ compress_images:
 
 imageoptim:
   pngout: false
-  svgo: true
+  svgo: false
   verbose: false
 
 compress_html:
@@ -59,3 +59,6 @@ compress_html:
   blanklines: false
   profile: false
   startings: []
+
+exclude:
+  - _compress_images_cache.yml
