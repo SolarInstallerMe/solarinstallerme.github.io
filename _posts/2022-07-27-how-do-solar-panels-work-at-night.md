@@ -3,6 +3,8 @@ title: "How Do Solar Panels Work at Night?"
 date: "2022-07-27T15:07:27+00:00"
 author: john
 layout: post
+featured: "false"
+image: /assets/images/solar-at-night.jpeg
 categories:
   - Solar
 ---

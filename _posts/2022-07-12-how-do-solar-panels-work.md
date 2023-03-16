@@ -2,6 +2,8 @@
 title: "How Do Solar Panels Work?"
 author: john
 layout: post
+featured: "false"
+image: /assets/images/how-solar-cell-works.jpg
 categories:
   - Solar
   - Solar Installer

@@ -3,6 +3,8 @@ title: "How to Find the Top Solar Companies Near Me"
 date: "2022-08-08T21:31:02+00:00"
 author: john
 layout: post
+featured: "false"
+image: /assets/images/solar-near-me.jpg
 categories:
   - Solar
 ---

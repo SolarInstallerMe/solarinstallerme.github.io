@@ -3,6 +3,8 @@ title: "Easy Ways to Make Your Home Energy-Efficient"
 date: "2022-08-17T20:24:27+00:00"
 author: john
 layout: post
+featured: "false"
+image: /assets/images/energy_efficiency.jpg
 categories:
   - Solar
 ---

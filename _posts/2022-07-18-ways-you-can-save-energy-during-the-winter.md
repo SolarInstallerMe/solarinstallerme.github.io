@@ -3,6 +3,8 @@ title: "Ways You Can Save Energy During The Winter"
 date: "2022-07-18T23:24:37+00:00"
 author: john
 layout: post
+featured: "false"
+image: /assets/images/ways-conserve-energy-winter.webp
 categories:
   - Solar
   - "Solar Installer"

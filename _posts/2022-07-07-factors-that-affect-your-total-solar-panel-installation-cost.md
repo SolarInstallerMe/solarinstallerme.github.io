@@ -3,6 +3,8 @@ title: "Factors that Affect Your Total Solar Panel Installation Cost"
 date: "2022-07-07T16:24:27+00:00"
 author: john
 layout: post
+featured: "false"
+image: /assets/images/homeguide-solar-panel-cost-analysis-chart.jpeg
 categories:
   - Solar
 ---
