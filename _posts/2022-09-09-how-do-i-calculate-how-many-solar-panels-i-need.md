@@ -47,6 +47,6 @@ However, you should also consider the location of your home in addition to the c
 
 The best way to learn how many solar panels you require and how much they will cost is to arrange a consultation and estimate with a [trusted solar provider near you](/how-to-find-the-top-solar-companies-near-me/). One of our expert solar consultants will ask you about your goals, examine your electric bills, and inspect your roof to determine how many solar panels you’ll need to power your home or place of business.
 
-We value our clients and are here to assist you in selecting the option that best suits your requirements and financial constraints. Give us a call right now if you’re seeking a [reliable solar company](/solar/) that is close by. We’re here to address your concerns and make going solar more convenient for you.
+We value our clients and are here to assist you in selecting the option that best suits your requirements and financial constraints. Give us a call right now if you’re seeking a reliable solar company that is close by. We’re here to address your concerns and make going solar more convenient for you.
 
  

@@ -9,7 +9,7 @@ categories:
 
 Commercial Solar Panel Installation Step by Step: A solar energy system can be a wise financial decision for your company and a valuable addition to almost any commercial site. In addition to lowering your electricity expenses dramatically, you’ll also be showing a strong commitment to sustainability and joining the ranks of several highly successful companies that have done the same.
 
-[Solar Companies](/solar/) are here to guide you through the decision-making process, whether you’re already prepared to [switch to solar](/reasons-you-should-switch-to-solar/) or you’re just starting to consider it as a possibility.
+Solar Companies are here to guide you through the decision-making process, whether you’re already prepared to [switch to solar](/reasons-you-should-switch-to-solar/) or you’re just starting to consider it as a possibility.
 
 Our commercial solar installation professionals have collaborated with a wide spectrum of business owners, acting as a trustworthy resource of knowledge and providing first-rate service at every turn. Above all else, we want the customers who purchase commercial solar from to be assured that they selected the best option for their company.
 

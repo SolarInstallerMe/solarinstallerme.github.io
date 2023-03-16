@@ -44,7 +44,7 @@ You should choose a reputable company for your solar installers that performs ex
 
 [Solar energy](/what-are-the-different-types-of-solar-energy/) is a significant investment, but it may also change your life. Reviewing your electricity bill and cost per watt is the best method to decide if solar is a good option for you. You are a perfect candidate for solar if your monthly expenses exceed $200. The exposure to sunlight in your home can then be assessed.
 
-There are more opportunities to produce energy when there is more sun. There is more sunlight each day in areas like [Arizona](/solar/Arizona/Queen-creek/85142/) and [California](/solar/California/Los-angeles/90011/). The capacity to optimize your solar potential is equivalent to this. You can also consider your roof’s style, the quantity of shade it provides, and the sun’s angle of approach.
+There are more opportunities to produce energy when there is more sun. There is more sunlight each day in areas like Arizona and California. The capacity to optimize your solar potential is equivalent to this. You can also consider your roof’s style, the quantity of shade it provides, and the sun’s angle of approach.
 
 ## **The Next Steps**
 

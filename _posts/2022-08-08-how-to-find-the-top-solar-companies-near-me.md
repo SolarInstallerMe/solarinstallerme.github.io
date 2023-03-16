@@ -15,7 +15,7 @@ The solar system, expertise, or services you want might not be offered by every 
 
 The following advice will help you locate the top solar companies in your area. Your search can be made easier by using this resource. Knowing that an expert staff is installing your system also gives you confidence.
 
-Find the state’s [top solar companies near you](/solar/Washington/Spokane/99201/)! Start your search today with these straightforward tips.
+Find the state’s top solar companies near you ! Start your search today with these straightforward tips.
 
 ### **Search for Expertise**
 
@@ -35,7 +35,7 @@ Make sure a crew working on your home has years of actual installation expertise
 
 ### **Get local recommendations**
 
-Across the US, there are presently over 19,700 [solar companies](/solar/) that install solar panels. Using sources you can trust can help you narrow down your search. Do you know anyone in the community who already had solar panels placed on their roof?
+Across the US, there are presently over 19,700 solar companies that install solar panels. Using sources you can trust can help you narrow down your search. Do you know anyone in the community who already had solar panels placed on their roof?
 
 If so, find out who they employed. Creating a list of recommendations might be made easier by talking to your friends, family, and neighbors. They could even be of assistance by offering details that aren’t available online.
 

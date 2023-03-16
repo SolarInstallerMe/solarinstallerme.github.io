@@ -31,7 +31,7 @@ On cold panels, however, hot water should never be used. Use of metal or abrasiv
 
 A fair starting point for module longevity is 25 years, which is the typical performance guarantee warranty offered by the panel manufacturers for the majority of panels. 90% of the maximum output is guaranteed at ten years and 80% at 25 years under the majority of performance warranties available on the market. For the first ten years of operation, many manufacturers also provide a craftsmanship warranty that covers any panel parts that are defective.
 
-And to make matters even better, several [solar companies](/solar/) go above and beyond the norm by providing a 20+ year workmanship warranty. We provide a solar production guarantee in addition to manufacturer and performance warranties. We have such a high level of confidence in our solar supplier partners.
+And to make matters even better, several solar companies go above and beyond the norm by providing a 20+ year workmanship warranty. We provide a solar production guarantee in addition to manufacturer and performance warranties. We have such a high level of confidence in our solar supplier partners.
 
 It is also very rare that you will ever need to use your warranty, so you can rest easy. A yearly median failure rate of just five out of 10,000 panels was discovered in a 2017 study looking at [solar installations](/factors-that-affect-your-total-solar-panel-installation-cost/) between 2000 and 2015. According to trends, the failure rate will continue to decline as technology advances, which is especially encouraging given that the failure rate doubled between 1980 and 2000.
 

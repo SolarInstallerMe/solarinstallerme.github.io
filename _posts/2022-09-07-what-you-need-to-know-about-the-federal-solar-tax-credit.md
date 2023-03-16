@@ -13,7 +13,7 @@ Continue reading to find out more about how tax incentives complement solar powe
 
 ### **How the solar tax credit works**
 
-You are qualified for the solar investment tax credit if you own your [solar energy](/solar/) system. For as long as the tax credit is in place, you can “roll over” any residual credits into future years even if you don’t have enough tax liabilities to use the entire benefit in one year (so, through 2034 for residential systems as it stands today). However, keep in mind that you cannot claim the tax credit if you enter into a lease or power purchase agreement (PPA) with a solar contractor because you are not the system’s owner.
+You are qualified for the solar investment tax credit if you own your solar energ system. For as long as the tax credit is in place, you can “roll over” any residual credits into future years even if you don’t have enough tax liabilities to use the entire benefit in one year (so, through 2034 for residential systems as it stands today). However, keep in mind that you cannot claim the tax credit if you enter into a lease or power purchase agreement (PPA) with a solar contractor because you are not the system’s owner.
 
 Finally, it’s crucial to remember that the ITC program has no income restrictions, so that taxpayers in all income groups may qualify.
 

@@ -59,7 +59,7 @@ Your insurer and the terms of your home’s policy will determine the answer to 
 
 Fortunately, if you wish to start using the solar energy but lack the initial expenditure to make a purchase, you have the option to lease solar panels. If you wish to [install a solar](/things-to-know-before-installing-solar-panels-on-your-home/) power system, several solar energy companies give you the option to lease their panels. Depending on the business you choose to collaborate with, this option has low to no upfront expenditures.
 
-Because you don’t own leased solar panels, you normally don’t need to buy insurance for them. To find out if they offer insurance over them in the event of a chance accident or weather-related disaster, you must contact your [solar companies](/solar/).
+Because you don’t own leased solar panels, you normally don’t need to buy insurance for them. To find out if they offer insurance over them in the event of a chance accident or weather-related disaster, you must contact your solar companies.
 
 Some businesses could demand that you buy your own coverage over the panels. Once more, be sure to discuss this issue with your solar energy provider.
 

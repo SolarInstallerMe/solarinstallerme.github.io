@@ -27,7 +27,7 @@ It’s crucial to realize that 100% energy offset is not the same as being “of
 
 ### **Why is the energy offset important?**
 
-A home is more energy independent the more energy it can offset with [solar power](/solar/). A homeowner is less susceptible to changing utility costs, power outages, and extreme weather occurrences as their level of energy independence increases.
+A home is more energy independent the more energy it can offset with solar power. A homeowner is less susceptible to changing utility costs, power outages, and extreme weather occurrences as their level of energy independence increases.
 
 Coal, natural gas, and nuclear energy are frequently used in combination to produce electricity for the grid. This means that you can offset a significant number of harmful emissions that would otherwise be released into the environment by choosing to independently produce your own energy using solar panels.
 

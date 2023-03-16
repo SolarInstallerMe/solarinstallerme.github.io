@@ -27,7 +27,7 @@ Dealer costs and interest payments are just two of the extra costs associated wi
 
 ### **Solar Lease**
 
-Many [solar companies](/solar/) also provide lease-based options, which are quite similar to solar financing where banks can give you loans. They let a user to purchase, set up, and begin using their product without making an initial payment. The alternative is that they pay monthly fees, which do include interest and other charges.
+Many solar companies also provide lease-based options, which are quite similar to solar financing where banks can give you loans. They let a user to purchase, set up, and begin using their product without making an initial payment. The alternative is that they pay monthly fees, which do include interest and other charges.
 
 The cost of the whole solution increases in comparison to the initial base price because many businesses have escalation rates in their solar contracts. In addition to that, solar energy providers provide their clients with incentive-based programs. For instance, referral bonus programs are quite widespread in the solar services industry.
 
