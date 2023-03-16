@@ -35,12 +35,12 @@ These switches can trip due to surges, errors, and overloads, which prevents sol
 
 ### **Check for obstructions**
 
-Given that [solar panels](/solar) require direct sunlight to produce energy, it’s critical to keep your panels clear of anything that could prevent this production, such as:
+Given that solar panels require direct sunlight to produce energy, it’s critical to keep your panels clear of anything that could prevent this production, such as:
 
 - Trees with recent foliage can be obstructing light. In this situation, you might need to prune certain branches.
 - A buildup of dust, dirt, and pollen can gradually accumulate and block sunlight from reaching your PV panels. Here are some free guidelines for correctly cleaning solar panels.
 
-Check for obstacles underneath the panels as well. Nesting mice, birds, and other vermin can harm the parts of your PV system, resulting in less energy being produced. Therefore, it’s crucial to remove any waste and dirt. In order to avoid repeat infestations, it is also a good idea to install a pest guard or [hire a pest removal company](/pest-removal-services/).
+Check for obstacles underneath the panels as well. Nesting mice, birds, and other vermin can harm the parts of your PV system, resulting in less energy being produced. Therefore, it’s crucial to remove any waste and dirt. In order to avoid repeat infestations, it is also a good idea to install a pest guard or hire a pest removal company.
 
 ### **Check Your Solar Inverter**
 
@@ -66,5 +66,5 @@ A more effective strategy entails installing solar monitoring or fixing your cur
 
 - Run invisibly in the background, monitoring the production of your PV system in real time.
 - Permit you to use any computer or mobile device to retrieve this performance data.
-- To assess the health of your [solar installation](/best-locations-to-install-your-solar-panels/), examine your historical generation statistics, the current weather, and what your neighbors are producing.
+- To assess the health of your solar installation, examine your historical generation statistics, the current weather, and what your neighbors are producing.
 - Notify you when the output of your PV system deviates from the expected range.

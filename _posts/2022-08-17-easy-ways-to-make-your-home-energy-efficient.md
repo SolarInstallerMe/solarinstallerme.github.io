@@ -25,7 +25,7 @@ We’re all guilty of leaving the errant iPhone charger plugged in under the bed
 
 A monthly power bill that makes you want to permanently live off the grid can result from adding extra energy costs to the already substantial costs associated with owning a property. A few higher-level improvements to your home can significantly lower your energy costs.
 
-When warm or cool air escapes from your home through old, drafty windows, you have to run your heating and cooling systems more frequently, which costs a lot of money. You can cut your energy costs by up to 50% by replacing your old windows with newer, better-insulated models that have argon gas insulated between the window panes! Another excellent approach to lowering energy bills and raising the value of your property is to [install solar panels](/things-to-know-before-installing-solar-panels-on-your-home/). Making the switch to a greener energy source is both economical and efficient!
+When warm or cool air escapes from your home through old, drafty windows, you have to run your heating and cooling systems more frequently, which costs a lot of money. You can cut your energy costs by up to 50% by replacing your old windows with newer, better-insulated models that have argon gas insulated between the window panes! Another excellent approach to lowering energy bills and raising the value of your property is to install solar panels. Making the switch to a greener energy source is both economical and efficient!
 
 **Also Read: [Factors that Affect Your Total Solar Panel Installation Cost](/factors-that-affect-your-total-solar-panel-installation-cost/)**
 

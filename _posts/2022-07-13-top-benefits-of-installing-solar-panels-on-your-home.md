@@ -30,7 +30,7 @@ The batteries, along with solar panels, are also a suitable safeguard for wildfi
 
 With a household solar system, your home is operated during the day by rooftop solar panels and at night by energy stored in the battery. You achieve energy independence by installing solar panels.
 
-It is becoming more affordable, available, durable, and reliable for solar panels and home batteries. When the power goes out or the next storm hits, they provide comfort and energy protection for households. [Sunrun’s ](/sunpower/)Brightbox home battery system replenishes with energy produced from the sun and eliminates the hassle, complexity, and cost of refueling a gas or diesel-powered generator.
+It is becoming more affordable, available, durable, and reliable for solar panels and home batteries. When the power goes out or the next storm hits, they provide comfort and energy protection for households. Sunrun’s Brightbox home battery system replenishes with energy produced from the sun and eliminates the hassle, complexity, and cost of refueling a gas or diesel-powered generator.
 
 ### Saving Money
 

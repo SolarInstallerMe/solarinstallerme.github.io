@@ -20,9 +20,7 @@ A solar system warranty is a written assurance that, within a given time frame, 
 * **Workmanship** warranties cover issues with the installation of your solar system, such as incorrect installation procedures or technician errors. The workmanship warranty offered by solar firms is ten years.
 
 A unique production guarantee is provided by Our Solar Companies in addition to the customary product and workmanship warranties. Over the first 10 years that your system is in operation, our Generation Guarantee guarantees at least 90% energy production, or we’ll cover the difference.
-
-**Also Read: [Best Locations to Install Your Solar Panels](/best-locations-to-install-your-solar-panels/)**
-
+ 
 ### **Why Do Solar Warranties Matter?**
 
 Warranties for solar PV panels are created to safeguard your solar system and guarantee that it will function as intended for a reasonable amount of time. You will be given comprehensive information about your warranties and what they cover when your system is installed.
@@ -37,7 +35,7 @@ Solar warranties make a guarantee that your system won’t stop producing electr
 
 Installing solar products from market-leading producers, each of which comes with a product warranty of its own, is what our solar firms do. The manufacturer warranties available for each solar product we install are listed in the table below. The longest potential warranty period is shown for goods with varied warranty terms.
 
-| [SunPower Solar](/sunpower/) Panels Warranty | 25 Years |
+| SunPower Solar Panels Warranty | 25 Years |
 | -------------------------------------------- | -------- |
 
 ### **Learn More About Solar Panels for Your Home or Business**

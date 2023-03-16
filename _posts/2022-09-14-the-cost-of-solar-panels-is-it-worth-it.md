@@ -29,7 +29,7 @@ Solar panels are a great method to reduce your impact on the environment, which 
 
 ### **Increase energy independence**
 
-You become dependent on the grid when you use fossil fuels and electric utility corporations. You may produce your own energy thanks to solar panels, making you energy independent. The country would be less dependent on importing fossil fuels to power our infrastructure the more individuals [switch to solar](/reasons-you-should-switch-to-solar/).
+You become dependent on the grid when you use fossil fuels and electric utility corporations. You may produce your own energy thanks to solar panels, making you energy independent. The country would be less dependent on importing fossil fuels to power our infrastructure the more individuals switch to solar.
 
 Solar energy is a wise investment for your house or place of business for the reasons listed above. By deciding to switch to solar energy, you can lower your carbon footprint and get a return on your investment within a few years.
  

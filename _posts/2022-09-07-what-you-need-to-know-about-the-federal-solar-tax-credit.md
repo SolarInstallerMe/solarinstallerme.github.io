@@ -21,7 +21,7 @@ Finally, it’s crucial to remember that the ITC program has no income restricti
 
 ### **What is the federal tax credit for solar energy?**
 
-A percentage of the [cost of your solar power](/factors-that-affect-your-total-solar-panel-installation-cost/) system may be deducted from your federal income taxes under the federal solar tax credit. A law passed by Congress in December 2020 allows you to receive credit for up to 30% of the cost of [installing a solar ](/best-locations-to-install-your-solar-panels/)system on your home. Depending on when you installed the equipment, you may be entitled to claim different amounts:
+A percentage of the [cost of your solar power](/factors-that-affect-your-total-solar-panel-installation-cost/) system may be deducted from your federal income taxes under the federal solar tax credit. A law passed by Congress in December 2020 allows you to receive credit for up to 30% of the cost of installing a solar system on your home. Depending on when you installed the equipment, you may be entitled to claim different amounts:
 
 - 30% for equipment placed in service between 2017 and 2019
 - 26% for equipment placed in service between 2020 and 2022
@@ -36,8 +36,8 @@ Are you unsure if you qualify for a tax credit? The prerequisites are as follows
 - Between January 1, 2006, and December 31, 2023, you installed your system.
 - It is situated at your main or secondary residence inside the US.
 - The solar energy system is yours (either purchased by cash or by financing, not leased).
-- A house, houseboat, mobile home, cooperative apartment, condominium, or manufactured home that complies with [Federal Manufactured Home Construction and Safety Standards](https://www.hud.gov/hudprograms/mhcss) is among the property types on which the system is placed.
+- A house, houseboat, mobile home, cooperative apartment, condominium, or manufactured home that complies with Federal Manufactured Home Construction and Safety Standards is among the property types on which the system is placed.
 
 Many states additionally provide tax advantages for owners of solar power systems in addition to this federal tax credit! The set of laws in each state varies.
 
-Learn how a [solar power system can help you](/things-to-know-before-installing-solar-panels-on-your-home/), your house, and your taxes by speaking with one of our helpful solar specialists. Call us right away!
+Learn how a solar power system can help you, your house, and your taxes by speaking with one of our helpful solar specialists. Call us right away!

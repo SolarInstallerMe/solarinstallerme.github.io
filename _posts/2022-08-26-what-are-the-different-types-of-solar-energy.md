@@ -27,9 +27,7 @@ A photovoltaic cell has two layers, typically made of silicon. When sunlight str
 As opposed to AC (Alternating Current), the energy generated is DC (Direct Current), hence an inverter is required before it can power anything in your house. As a result, a battery to store extra energy will be installed along with your solar panels in addition to an inverter, which is a very popular add-on. Your extra energy is fed back into the national grid if you don’t have a battery.
 
 The biggest benefit of photovoltaic electricity is how little upkeep it requires. Since solar PV panels don’t have any moving parts, [solar maintenance](/maintenance-and-cleaning-tips-for-solar-panels/) is not necessary. As a result, they have a lengthy lifespan; the majority of solar panels have a 25-year lifespan. They continue to be more expensive than you might prefer from the standpoint of a homeowner. Because of this, Solar Together has made it its mission to increase everyone’s access to and affordability of solar panels and batteries.
-
-**Also read: [Best Locations to Install Your Solar Panels](/best-locations-to-install-your-solar-panels/)**
-
+ 
 ### **Solar Thermal Energy**
 
 A type of solar energy called solar thermal energy uses the heat from the sun to produce electricity. It can be applied domestically to solar thermal systems, which warm water for storage in hot water cylinders using energy from the sun. Due to seasonal variations in solar energy, a solar water heating system cannot supply all of a household’s hot water needs. To make up for the difference, a typical immersion heater or boiler is typically employed.

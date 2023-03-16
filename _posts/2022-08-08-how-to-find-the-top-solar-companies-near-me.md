@@ -90,7 +90,7 @@ Choose a solar company that can provide high-quality goods.
 
 ### **Think about your preferences**
 
-Spend some time thinking about your unique wants and objectives if you want to identify the top [solar installation](/things-to-know-before-installing-solar-panels-on-your-home/) providers. A business that meets your individual needs is the greatest one in your area.
+Spend some time thinking about your unique wants and objectives if you want to identify the top solar installation  providers. A business that meets your individual needs is the greatest one in your area.
 
 For instance, you may choose to pick a solar panel company depending on the financing choices they offer.
 

@@ -25,7 +25,7 @@ Let’s examine each of these choices in more detail.
 
 ### **Compatible With Both Net Metering and Battery Storage**
 
-The majority of solar panel owners link their [solar installation](/things-to-know-before-installing-solar-panels-on-your-home/) to the grid in order to profit from net metering. Batteries are being installed for storage by households more frequently as well.
+The majority of solar panel owners link their solar installation to the grid in order to profit from net metering. Batteries are being installed for storage by households more frequently as well.
 
 However, these two strategies can be combined; they are not mutually incompatible.
 

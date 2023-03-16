@@ -11,7 +11,7 @@ categories:
 
 **What You Need To Know About Solar Financing:** One thing that is frequently seen as more people actively choose solar energy solutions and move to renewable energy sources is the conundrum they face. It is stated that making the decision to move to solar-based solutions is the simplest step in making the transfer to solar energy. The difficult part is figuring out how you’re going to pay for it.
 
-There are numerous approaches you can take. The project might be funded by an upfront payment or a loan. This article will examine four distinct financing options for [switching to solar](/reasons-you-should-switch-to-solar/)-powered items.
+There are numerous approaches you can take. The project might be funded by an upfront payment or a loan. This article will examine four distinct financing options for switching to solar-powered items.
 
 ### **Cash Purchase**
 

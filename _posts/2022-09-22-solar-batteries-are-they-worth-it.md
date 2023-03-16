@@ -35,9 +35,7 @@ What happens, though, when it gets dark outside in the evening? Without battery 
 Peace of mind is the main factor in house and business owners’ decisions to add battery backup alongside their solar panel installation.
 
 > Knowing that your home or place of business will stay powered up despite the power outage will give you confidence and allow you to sleep soundly.
-
-**Also Read: [Things To Know Before Installing Solar Panels On Your Home](/things-to-know-before-installing-solar-panels-on-your-home/)**
-
+ 
 ### **The top reason why people install solar backup batteries**
 
 - **peace of mind**. Power outages may be disastrous, causing everything from food to spoil to people with delicate medical equipment that needs to be used constantly.

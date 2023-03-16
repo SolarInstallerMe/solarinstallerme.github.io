@@ -30,9 +30,7 @@ When it comes to a do-it-yourself solar installation, this is possibly the large
 Your solar system will need drilling several holes through your roof unless it is level. While improper sealing and flashing might result in roof leaks and/or mold problems, drilling into the wrong area on the roof can harm the structure.
 
 Another thing to bear in mind is that a DIY solar installation is likely to invalidate your roof’s warranty, so you’ll be responsible for paying for any necessary repairs.
-
-**Related : [Things To Know Before Installing Solar Panels On Your Home](/things-to-know-before-installing-solar-panels-on-your-home/)**
-
+ 
 ### **It takes a lot of work and time.**
 
 [Solar panel installation](/top-benefits-of-installing-solar-panels-on-your-home/) is beneficial, but only if you’re deliberately looking for a significant DIY project.

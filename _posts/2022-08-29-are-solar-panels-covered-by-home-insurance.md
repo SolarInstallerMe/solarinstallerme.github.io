@@ -48,7 +48,7 @@ Your homeowners insurance will provide coverage for solar panels that are perman
 
 ### **Are Your Solar Panels a Factor That Your Insurance Should Know About?**
 
-Yes, it is always advised to contact your [home insurance provider](/insurance-provider/?tab=home-insurance) about your solar panels.
+Yes, it is always advised to contact your home insurance provider about your solar panels.
 
 Your insurance provider will be able to reassess your policy and decide whether you require additional coverage if you let them know that you have solar panels. Additionally, they will have the option to present you with insurance plans that would best protect your solar panel investment.
 
@@ -60,7 +60,7 @@ Your insurer and the terms of your home’s policy will determine the answer to 
 
 ### **House Insurance Effects OF Leasing Solar Panels**
 
-Fortunately, if you wish to start using the solar energy but lack the initial expenditure to make a purchase, you have the option to lease solar panels. If you wish to [install a solar](/things-to-know-before-installing-solar-panels-on-your-home/) power system, several solar energy companies give you the option to lease their panels. Depending on the business you choose to collaborate with, this option has low to no upfront expenditures.
+Fortunately, if you wish to start using the solar energy but lack the initial expenditure to make a purchase, you have the option to lease solar panels. If you wish to install a solar power system, several solar energy companies give you the option to lease their panels. Depending on the business you choose to collaborate with, this option has low to no upfront expenditures.
 
 Because you don’t own leased solar panels, you normally don’t need to buy insurance for them. To find out if they offer insurance over them in the event of a chance accident or weather-related disaster, you must contact your solar companies.
 
