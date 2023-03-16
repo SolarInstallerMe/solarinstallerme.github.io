@@ -3,6 +3,8 @@ title: "Commercial Solar Panel Installation Step by Step"
 date: "2022-09-02T00:08:04+00:00"
 author: john
 layout: post
+featured: "false"
+image: /assets/images/Commercial-Solar.jpg
 categories:
   - "Solar for Business"
 ---

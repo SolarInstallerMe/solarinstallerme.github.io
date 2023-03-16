@@ -3,6 +3,8 @@ title: "How Long Do Solar Panels Really Last?"
 date: "2022-09-05T21:29:01+00:00"
 author: john
 layout: post
+featured: "false"
+image: /assets/images/solar-life-span.jpg
 categories:
   - Uncategorized
 ---

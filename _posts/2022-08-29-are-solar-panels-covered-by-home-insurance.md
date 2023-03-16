@@ -3,6 +3,9 @@ title: "Are Solar Panels Covered by Home Insurance?"
 date: "2022-08-29T17:37:22+00:00"
 author: john
 layout: post
+featured: "false"
+image: /assets/images/solar-home.jpg
+categories:
 categories:
   - "Home Insurance"
   - Solar

@@ -3,6 +3,8 @@ title: "How to Offset Your Energy Cost Use With Solar"
 date: "2022-09-02T19:18:35+00:00"
 author: john
 layout: post
+featured: "false"
+image: /assets/images/offset-solar-cost.jpg
 categories:
   - Solar
 ---

@@ -1,8 +1,10 @@
 ---
-title: "Maintenance and Cleaning Tips for Solar Panels\_"
+title: "Maintenance and Cleaning Tips for Solar Panels"
 date: "2022-08-25T18:32:19+00:00"
 author: john
 layout: post
+featured: "false"
+image: /assets/images/Solar-Clean.webp
 categories:
   - Solar
   - "Solar Installer"
