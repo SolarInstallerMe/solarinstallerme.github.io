@@ -4,6 +4,9 @@ title: "Solar Batteries: Are They Worth It?"
 date: "2022-09-22T23:50:08+00:00"
 author: john
 layout: post
+featured: "false"
+image: /assets/images/solar-batt.jpg
+categories:
 categories:
   - "Solar Battery"
 

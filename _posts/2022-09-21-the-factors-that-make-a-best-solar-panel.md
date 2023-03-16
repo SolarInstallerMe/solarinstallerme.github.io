@@ -3,6 +3,8 @@ title: "The Factors That Make A Best Solar Panel"
 date: "2022-09-21T17:58:48+00:00"
 author: john
 layout: post
+featured: "false"
+image: /assets/images/best-solar.jpg
 categories:
   - solar
 ---

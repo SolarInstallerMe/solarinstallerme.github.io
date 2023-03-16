@@ -3,6 +3,8 @@ title: "How to Reduce Solar Panel Installation Costs"
 date: "2022-11-14T21:53:50+00:00"
 author: john
 layout: post
+featured: "false"
+image: /assets/images/reduce-splar-cost.jpg
 categories:
   - Solar
   - "Solar Installer"
