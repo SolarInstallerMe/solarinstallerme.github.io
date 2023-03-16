@@ -19,7 +19,7 @@ The most common types of solar batteries are lead-acid, lithium-ion, and saltwat
 
 In addition to the type of battery, the frequency of use and storage conditions can also impact the battery's lifespan. Batteries that are used frequently and discharged to lower levels may not last as long as those that are used less frequently and discharged to a shallower depth of discharge. Extreme temperatures, both hot and cold, can also have a negative impact on battery life.
 
-Proper maintenance and care can help extend the lifespan of solar batteries. This includes regular cleaning, proper ventilation, and monitoring the battery's charge levels. It's also important to purchase a battery with a warranty and to work with a reputable installer who can help you choose the best battery for your needs and provide guidance on maintenance and replacement before [solar installation](https://jna.org/factors-to-consider-when-installing-solar-panels-in-your-home).
+Proper maintenance and care can help extend the lifespan of solar batteries. This includes regular cleaning, proper ventilation, and monitoring the battery's charge levels. It's also important to purchase a battery with a warranty and to work with a reputable installer who can help you choose the best battery for your needs and provide guidance on maintenance and replacement before [solar installation](/factors-to-consider-when-installing-solar-panels-in-your-home).
 <br>
 
 ### Types of Solar Battery
@@ -41,7 +41,7 @@ Each type of solar battery has its advantages and disadvantages, and the choice 
 
 <br>
 
-> Related: [The Four Main Types of Solar Battery Storage](https://jna.org/the-four-main-types-of-solar-battery-storage)
+> Related: [The Four Main Types of Solar Battery Storage](/the-four-main-types-of-solar-battery-storage)
 
 <br>
 ### Solar Battery Maintenance
