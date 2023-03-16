@@ -4,7 +4,7 @@ date: "2022-09-07T21:01:35+00:00"
 author: john
 layout: post
 featured: "false"
-image: /assets/images/solar-life-span.jpg
+image: /assets/images/Solar-Tax-Credit.jpg
 categories:
   - Solar
 ---

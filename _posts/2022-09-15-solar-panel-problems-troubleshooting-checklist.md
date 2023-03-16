@@ -3,6 +3,8 @@ title: "Solar Panel Problems Troubleshooting Checklist"
 date: "2022-09-15T23:40:38+00:00"
 author: john
 layout: post
+featured: "false"
+image: /assets/images/solar-checklist.jpg
 categories:
   - Solar
 ---
@@ -66,4 +68,3 @@ A more effective strategy entails installing solar monitoring or fixing your cur
 - Permit you to use any computer or mobile device to retrieve this performance data.
 - To assess the health of your [solar installation](/best-locations-to-install-your-solar-panels/), examine your historical generation statistics, the current weather, and what your neighbors are producing.
 - Notify you when the output of your PV system deviates from the expected range.
- 
