@@ -5,8 +5,9 @@ featured: true
 image: /assets/images/guide-to-installation-benefits-and-cost.svg
 categories:
   - solar
-author: John
+author: killcreek
 ---
+
 As we continue to rely on fossil fuels to power our daily lives, the demand for sustainable and renewable energy sources has become increasingly crucial. Solar energy has emerged as one of the most viable and popular options, with its many benefits and cost-effectiveness. In this article, we will provide a comprehensive guide to solar energy, including installation, benefits, and cost, as well as other essential information to help you make an informed decision about whether solar energy is right for you.
 
 ## Introduction to Solar Energy

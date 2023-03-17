@@ -5,7 +5,7 @@ featured: false
 image: /assets/images/number-of-solar-panels-for-your-home.jpg
 categories:
   - solar
-author: John
+author: killcreek
 ---
 
 At a time when the world is rapidly transitioning towards renewable energy, solar power is emerging as a popular choice among homeowners looking to reduce their carbon footprint and save on energy bills. However, one of the most common questions that arise is: how many solar panels do I need for my home?

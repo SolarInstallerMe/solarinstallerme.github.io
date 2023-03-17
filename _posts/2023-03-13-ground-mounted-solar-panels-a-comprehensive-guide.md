@@ -5,23 +5,18 @@ featured: "false"
 image: /assets/images/ground-mounted-solar-panels-field.jpg
 categories:
   - solar
-author: John
+author: killcreek
 ---
+
 Are you considering[ installing solar panels](https://solarinstaller.me/thing-you-need-to-know-solar-installation/) on your property but don't have enough roof space? Ground-mounted solar panels are an excellent alternative that can provide you with the energy savings you need. In this comprehensive guide, we will cover everything you need to know about ground-mounted solar panels.
-
-
 
 ## What are Ground Mounted Solar Panels?
 
 Ground-mounted solar panels are solar panels that are installed on the ground instead of on the roof of a building. They are typically installed on a concrete or metal foundation and tilted at an angle to optimize their exposure to the sun. Ground-mounted solar panels are an excellent alternative to roof-mounted solar panels when there is limited roof space, or the roof is not suitable for solar panel installation.
 
-
-
 ## Advantages of Ground Mounted Solar Panels
 
 There are several advantages of ground-mounted solar panels over roof-mounted solar panels. Some of these advantages include:
-
-
 
 ### More Energy Production
 
@@ -35,21 +30,11 @@ Ground-mounted solar panels are easier to maintain compared to roof-mounted sola
 
 Ground-mounted solar panels can be installed in any location on the property, as long as there is enough space and sunlight. This means that the homeowner has more flexibility in choosing the location of the solar panel installation.
 
-
-
-
-
 > **A﻿lso Read: [Solar Energy: A Comprehensive Guide to Installation, Benefits, and Cost](https://solarinstaller.me/solar-energy-a-comprehensive-guide-to-installation-benefits-and-cost/)**
-
-
-
-
 
 ## Disadvantages of Ground Mounted Solar Panels
 
 While there are many advantages to ground-mounted solar panels, there are also some disadvantages. Some of these disadvantages include:
-
-
 
 ### Higher Installation Cost
 
@@ -63,19 +48,11 @@ Ground-mounted solar panels require more space compared to roof-mounted solar pa
 
 Ground-mounted solar panels can be more visible compared to roof-mounted solar panels. This can be a concern for homeowners who are concerned about the aesthetics of their property.
 
-
-
-
-
 ![GROUND MOUNTED SOLAR PANEL](/assets/images/ground-mounted-solar-panel.png)
-
-
 
 ## Factors to Consider When Choosing Ground Mounted Solar Panels
 
 There are several factors that you need to consider when choosing ground-mounted solar panels for your property. These factors include:
-
-
 
 ### Available Space
 
@@ -96,10 +73,6 @@ The tilt angle of the solar panel system is also essential to its performance. T
 ### Cost
 
 The cost of the solar panel system is an essential consideration when choosing ground-mounted solar panels. You should compare the cost of different systems and choose the one that best fits your budget.
-
-
-
-
 
 ## Installation Process for Ground Mounted Solar Panels
 
@@ -134,10 +107,6 @@ The solar panels are installed on the racking system. The panels are wired toget
 ### Electrical Connection
 
 The solar panel system is connected to the electrical system of the property. This allows the energy produced by the solar panel system to be used by the homeowner.
-
-
-
-
 
 ## Maintenance of Ground Mounted Solar Panels
 

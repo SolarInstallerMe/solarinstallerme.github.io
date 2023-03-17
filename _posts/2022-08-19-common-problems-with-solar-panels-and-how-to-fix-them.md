@@ -1,7 +1,7 @@
 ---
 title: "Common Problems with Solar Panels and How to Fix Them"
 date: "2022-08-19T22:27:32+00:00"
-author: john
+author: killcreek
 layout: post
 featured: "false"
 image: /assets/images/AddingPanels.png

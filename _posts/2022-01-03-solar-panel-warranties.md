@@ -6,8 +6,9 @@ featured: "false"
 image: /assets/images/solar-warranties.jpeg
 categories:
   - Solar
-author: john
+author: killcreek
 ---
+
 When searching for solar installation providers. We would be delighted to speak with you if you are considering getting solar! Our experts can respond to all of your inquiries regarding solar power and assist you in making the best choice for your residence or place of business. Our solar companies work with a premium solar installation since we have more than ten years of expertise and hundreds of successfully completed installations.), solar panel warranties are a crucial feature to take into account as they protect your investment.
 
 However, there are various solar warranty types, and various installers provide various choices. It’s critical to understand what a solar panel warranty is, how it functions, and what it covers if you want to ensure that you’re obtaining the finest guarantee available.
@@ -16,11 +17,11 @@ However, there are various solar warranty types, and various installers provide 
 
 A solar system warranty is a written assurance that, within a given time frame, any necessary repairs or replacements will be made to the covered system components. Two warranties are often included with residential and business solar panel installations:
 
-* **Product Warranty** – The manufacturer normally upholds product warranties for solar panels, solar inverters, and solar batteries. These guarantees cover product-related issues, including production flaws or weather-related damage. Boston Solar provides an extended 25-year product warranty for solar panels and inverters.
-* **Workmanship** warranties cover issues with the installation of your solar system, such as incorrect installation procedures or technician errors. The workmanship warranty offered by solar firms is ten years.
+- **Product Warranty** – The manufacturer normally upholds product warranties for solar panels, solar inverters, and solar batteries. These guarantees cover product-related issues, including production flaws or weather-related damage. Boston Solar provides an extended 25-year product warranty for solar panels and inverters.
+- **Workmanship** warranties cover issues with the installation of your solar system, such as incorrect installation procedures or technician errors. The workmanship warranty offered by solar firms is ten years.
 
 A unique production guarantee is provided by Our Solar Companies in addition to the customary product and workmanship warranties. Over the first 10 years that your system is in operation, our Generation Guarantee guarantees at least 90% energy production, or we’ll cover the difference.
- 
+
 ### **Why Do Solar Warranties Matter?**
 
 Warranties for solar PV panels are created to safeguard your solar system and guarantee that it will function as intended for a reasonable amount of time. You will be given comprehensive information about your warranties and what they cover when your system is installed.
@@ -36,7 +37,7 @@ Solar warranties make a guarantee that your system won’t stop producing electr
 Installing solar products from market-leading producers, each of which comes with a product warranty of its own, is what our solar firms do. The manufacturer warranties available for each solar product we install are listed in the table below. The longest potential warranty period is shown for goods with varied warranty terms.
 
 | SunPower Solar Panels Warranty | 25 Years |
-| -------------------------------------------- | -------- |
+| ------------------------------ | -------- |
 
 ### **Learn More About Solar Panels for Your Home or Business**
 

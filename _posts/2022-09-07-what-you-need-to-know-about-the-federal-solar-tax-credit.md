@@ -1,7 +1,7 @@
 ---
 title: "What You Need To Know About The Federal Solar Tax Credit"
 date: "2022-09-07T21:01:35+00:00"
-author: john
+author: killcreek
 layout: post
 featured: "false"
 image: /assets/images/Solar-Tax-Credit.jpg

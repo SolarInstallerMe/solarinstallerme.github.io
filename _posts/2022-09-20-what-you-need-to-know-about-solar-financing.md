@@ -1,7 +1,7 @@
 ---
 title: "What You Need To Know About Solar Financing"
 date: "2022-09-20T17:48:47+00:00"
-author: john
+author: killcreek
 layout: post
 featured: "false"
 image: /assets/images/solar-financing.jpg

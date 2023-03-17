@@ -1,7 +1,7 @@
 ---
 title: "Reasons To Invest In Solar While Working From Home"
 date: "2022-08-01T23:53:22+00:00"
-author: john
+author: killcreek
 layout: post
 featured: "false"
 image: /assets/images/working-from-home.png
@@ -14,7 +14,7 @@ categories:
 ### **Maximizing your system size by taking benefit of higher demand**
 
 Solar energy is a fantastic way to reduce the cost of your home’s energy usage. You have the option to construct a system that will more than meet your power demands if and when you do return to a corporate office environment, because your consumption is now greater than it would be if you were working at your company’s office. Although your rising consumption necessitates the addition of a larger solar photovoltaic system to your home, it also gives you the chance to optimize the size of your system to meet your demands.
- 
+
 ### **Changed power usage**
 
 According to the National Bureau of Economic Research, “[Americans spent $6 billion more on at-home power consumption](https://www.nber.org/digest-202012/working-homes-impact-electricity-use-pandemic) from April to July 2020 than during normal times, nearly offsetting a decline in business and industrial demand.” The increase in residential consumption was caused by increased home heating and cooling demands, workers participating in virtual meetings, running computers, printers, lamps, and other electronic devices all day long, as well as increased home heating cooling demands. As a result, energy expenses have shifted from businesses to workers, with many individuals experiencing considerable increases in their personal electricity bills.

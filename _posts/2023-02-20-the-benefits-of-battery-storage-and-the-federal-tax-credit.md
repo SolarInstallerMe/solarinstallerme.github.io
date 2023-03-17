@@ -5,7 +5,7 @@ featured: false
 image: /assets/images/benefits-of-battery-storage-and-the-federal-tax-credit.png
 categories:
   - solar
-author: John
+author: killcreek
 ---
 
 At present, there is a growing interest in battery storage, which can help homeowners and businesses reduce their reliance on the grid while offering a more sustainable energy alternative. The advantages of battery storage are numerous, but one that is often overlooked is the potential financial benefits that come in the form of the Federal Tax Credit. In this article, we explore the many benefits of battery storage and how the Federal Tax Credit can help offset some of the costs.

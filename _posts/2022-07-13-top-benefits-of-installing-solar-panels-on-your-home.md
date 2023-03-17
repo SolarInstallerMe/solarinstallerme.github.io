@@ -1,7 +1,7 @@
 ---
 title: "Top Benefits of Installing Solar Panels on Your Home"
 date: "2022-07-13T17:23:06+00:00"
-author: john
+author: killcreek
 layout: post
 featured: "false"
 image: /assets/images/advantages_and_disadvantages_of_solar_energy.avif

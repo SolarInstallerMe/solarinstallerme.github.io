@@ -1,7 +1,7 @@
 ---
 title: "Ways You Can Save Energy During The Winter"
 date: "2022-07-18T23:24:37+00:00"
-author: john
+author: killcreek
 layout: post
 featured: "false"
 image: /assets/images/ways-conserve-energy-winter.webp
@@ -35,7 +35,7 @@ Shutters, drapes, and roller blinds can also help block off the heat at night as
 People who prefer to brush their teeth in the morning and evening with warm feet frequently leave the heating on all day. The use of programmable thermostatic valves makes sense to save this from becoming an expensive ordeal. You can easily adjust the operation hours of your heating with these, saving money and, if you have a thermostatic valve with a night setback, lowering your CO2 emissions by 455 kg annually.
 
 **Bonus Tip:** If you have a gas heating system, lowering your room’s temperature by only one hardly visible degree will also help you save up to 275 kilograms of CO2 annually
- 
+
 ### **Save Hot Water**
 
 The cost of heating includes both the actual heating and the heating of the hot water. The average amount of energy used to heat water is about 14% of overall energy use. In an average family of three people, using a low-flow shower head that consumes just 6 liters per minute rather than 14 can help you save about 37,800 liters of hot water annually and 2,550 kWh used to heat that water.

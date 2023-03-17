@@ -1,7 +1,7 @@
 ---
 title: "How to Find the Top Solar Companies Near Me"
 date: "2022-08-08T21:31:02+00:00"
-author: john
+author: killcreek
 layout: post
 featured: "false"
 image: /assets/images/solar-near-me.jpg
@@ -90,7 +90,7 @@ Choose a solar company that can provide high-quality goods.
 
 ### **Think about your preferences**
 
-Spend some time thinking about your unique wants and objectives if you want to identify the top solar installation  providers. A business that meets your individual needs is the greatest one in your area.
+Spend some time thinking about your unique wants and objectives if you want to identify the top solar installation providers. A business that meets your individual needs is the greatest one in your area.
 
 For instance, you may choose to pick a solar panel company depending on the financing choices they offer.
 

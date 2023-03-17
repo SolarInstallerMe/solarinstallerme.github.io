@@ -1,7 +1,7 @@
 ---
 title: "The Factors That Make A Best Solar Panel"
 date: "2022-09-21T17:58:48+00:00"
-author: john
+author: killcreek
 layout: post
 featured: "false"
 image: /assets/images/best-solar.jpg
@@ -26,7 +26,7 @@ Warranty coverage for solar panels is crucial since it protects your investment.
 Companies with high-efficiency panels and industry-leading warranties will cost more overall, though prices will vary depending on the model. Which choice gives the most value for you and your objectives should be determined with the assistance of your solar installation.
 
 Pricing matters since the cost is the primary determinant of whether or not someone will go solar. You should also take into account the cost of installation and the other solar-related equipment, such as wiring, racking, and inverters.
- 
+
 ### **% of Panel Efficiency**
 
 The amount of energy that each solar panel can generate from the energy that it receives is measured by its efficiency. Though they will probably cost more, higher efficiency panels can generate more electricity per panel.

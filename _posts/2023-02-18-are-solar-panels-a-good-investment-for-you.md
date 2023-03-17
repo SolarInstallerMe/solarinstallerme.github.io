@@ -5,7 +5,7 @@ featured: false
 image: /assets/images/solar-investment.png
 categories:
   - Solar
-author: John
+author: killcreek
 ---
 
 One of the best ways to lessen your impact on the environment and your carbon footprint is to power your home with solar energy. A perk of switching to this renewable energy source is that you'll pay less each month in utility bills as a result. Yet, many homeowners wonder if solar panels are really a wise purchase given their exorbitant installation prices.One of the best ways to lessen your impact on the environment and your carbon footprint is to power your home with solar energy. A perk of switching to this renewable energy source is that you'll pay less each month in utility bills as a result. Yet, many homeowners wonder if solar panels are really a wise purchase given their exorbitant installation prices.

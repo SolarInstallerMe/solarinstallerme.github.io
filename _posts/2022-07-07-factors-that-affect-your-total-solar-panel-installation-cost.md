@@ -1,7 +1,7 @@
 ---
 title: "Factors that Affect Your Total Solar Panel Installation Cost"
 date: "2022-07-07T16:24:27+00:00"
-author: john
+author: killcreek
 layout: post
 featured: "false"
 image: /assets/images/homeguide-solar-panel-cost-analysis-chart.jpeg
@@ -49,5 +49,3 @@ The cost of solar panels is also significantly influenced by the age and structu
 ## **How much do solar installation panels cost?**
 
 Solar panels can be a smart investment for your house because they will lower your long-term electricity costs and increase the value of your home. Before making the transition, you should take a few things into accounts, such as how much direct sunlight enters your home each day and the shape and orientation of your roof.
-
- 

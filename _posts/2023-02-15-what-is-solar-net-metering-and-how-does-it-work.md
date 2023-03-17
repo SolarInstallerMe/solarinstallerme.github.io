@@ -5,7 +5,7 @@ featured: false
 image: /assets/images/solar-net-metering-2.0.webp
 categories:
   - solar
-author: John
+author: killcreek
 ---
 
 A Solar Net Metering 2.0 is a billing arrangement that allows solar panel owners to receive credits for the excess energy they generate and send back to the grid. This updated version of the net metering system may allow for higher compensation rates for excess energy, as well as the ability to roll over credits to future billing periods.

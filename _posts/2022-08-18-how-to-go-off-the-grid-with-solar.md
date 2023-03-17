@@ -1,7 +1,7 @@
 ---
 title: "How to Go Off The Grid With Solar"
 date: "2022-08-18T22:51:26+00:00"
-author: john
+author: killcreek
 layout: post
 featured: "false"
 image: /assets/images/grid.webp

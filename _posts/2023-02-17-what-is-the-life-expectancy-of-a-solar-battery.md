@@ -5,7 +5,7 @@ featured: false
 image: /assets/images/solar-battery.jpg
 categories:
   - solar
-author: John
+author: killcreek
 ---
 
 The lifespan of solar batteries can vary depending on a few different factors, including the type of battery, how often it is used, and the conditions in which it is stored.The lifespan of solar batteries can vary depending on a few different factors, including the type of battery, how often it is used, and the conditions in which it is stored.
@@ -39,8 +39,8 @@ There are several types of solar batteries available in the market, including:
 
 Each type of solar battery has its advantages and disadvantages, and the choice will depend on the specific needs of the solar power system.
 
- 
 ### Solar Battery Maintenance
+
 <br>
 Proper maintenance is important to extend the lifespan of solar batteries and keep them running efficiently. Here are some maintenance tips for solar batteries
 

@@ -1,7 +1,7 @@
 ---
 title: "Commercial Solar Panel Installation Step by Step"
 date: "2022-09-02T00:08:04+00:00"
-author: john
+author: killcreek
 layout: post
 featured: "false"
 image: /assets/images/Commercial-Solar.jpg
@@ -32,7 +32,7 @@ During the preliminary site assessment, the solar company will:
 - Carry out geological and topographical surveys, shadow analyses, and structural evaluations.
 
 In order to ensure that solar installers are positioning you for success, the site evaluation visit’s objective is to cover every single element that will affect the project. We will do our due diligence on your solar panel installation so you may have peace of mind that everything will proceed according to plan.
- 
+
 ### **Designing the solar energy system.**
 
 The solar team will begin engineering your system once they have gathered all of the required data, including specifics of your power requirements and specific objectives. Any conceptual or preliminary ideas are converted into formal plans and shared via design drawings. The purpose of design drawings is to show the location of the solar panels, their configuration, and the construction’s goals. Permit drawings will also be needed in order to get the necessary building permits. Finally, plans for your business solar project will be prepared in the form of construction drawings.

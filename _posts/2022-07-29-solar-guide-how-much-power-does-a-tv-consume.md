@@ -1,7 +1,7 @@
 ---
 title: "Solar Guide: How Much Power Does a TV Consume?"
 date: "2022-07-29T19:54:07+00:00"
-author: john
+author: killcreek
 layout: post
 featured: "false"
 image: /assets/images/smart-tv-solar.webp
@@ -34,7 +34,7 @@ Yes, TVs are in standby mode just like all other electronics.
 Because it is always ready to be turned on, any plugged-in piece of technology will be using a small amount of electricity from the socket. However, maintaining electronics only requires a tiny amount of energy—less than 0.5 W of standby power.
 
 So perhaps unplug your TV unless it is a critical load if you are facing a power outage and must rely on battery storage. Otherwise, leaving your TV plugged in won’t significantly raise your electricity bill on a typical day.
- 
+
 ### **How do the wattages of various TV models compare?**
 
 The type, size, and type of TV will determine how much energy it needs to operate. There are several distinct TV model types, such as LED/LCD, plasma, and smart TVs, all of which require varied wattages to operate.

@@ -1,7 +1,7 @@
 ---
 title: "How Do I Calculate How Many Solar Panels I Need?"
 date: "2022-09-09T00:23:38+00:00"
-author: john
+author: killcreek
 layout: post
 featured: "false"
 image: /assets/images/Calculate-How-Many-Solar.webp
@@ -27,7 +27,6 @@ Before deciding how many solar panels to install, you must first determine how m
 
 Don’t forget to factor future increases into your annual electricity usage [calculations](/calculator/). Consider how much more energy you will use, for instance, if you decide to install a swimming pool or a station for charging electric cars.
 
- 
 ### **The efficiency of Solar Panel**
 
 How effectively a solar panel can transform sunlight into electricity is described by its solar panel efficiency. Not all solar panels are created equal; higher-quality panels typically have efficiency ratings that are greater. A solar panel with higher efficiency will probably cost more than one with lower efficiency, but it will generate more electricity. As a result, you can produce more electricity with fewer solar panels, which can lower the initial cost of installation.
@@ -35,7 +34,7 @@ How effectively a solar panel can transform sunlight into electricity is describ
 ### **How Big Your Roof Is**
 
 Size might be a limiting factor when installing solar panels on rooftops. The amount of useable roof space you have depends on how many solar panels you can put. Most of the time, a unique solar panel design can overcome spacing issues and provide you with the right amount of solar panels. If your roof is simply too tiny for a sufficient array, we’ll find a different solution, such as a solar system that is put on the ground.
- 
+
 ### **How Much Sun Light You Get**
 
 Solar panels generate electricity by turning sunlight into electricity, and how much electricity they can generate is based on how much sunlight they receive each day. Most of the state experiences more than 300 sunny days annually. You might be able to install fewer solar panels due to the plentiful sunshine than you would require in an area with less light.

@@ -1,7 +1,7 @@
 ---
 title: "How Much Power Can a Solar Panel Generate?"
 date: "2022-07-08T16:35:05+00:00"
-author: john
+author: killcreek
 layout: post
 featured: "false"
 image: /assets/images/solar-power-generate.png

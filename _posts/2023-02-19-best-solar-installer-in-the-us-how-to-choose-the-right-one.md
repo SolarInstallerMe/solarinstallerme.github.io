@@ -5,7 +5,7 @@ featured: false
 image: /assets/images/best-solar-installer-us.webp
 categories:
   - solar
-author: John
+author: killcreek
 ---
 
 Solar energy is a clean and renewable source of energy that has become increasingly popular in the US. Solar installation involves the installation of solar panels on rooftops or ground mounts to convert sunlight into electricity. Choosing the right solar installer is crucial to ensure the success and longevity of your solar energy system. In this blog post, we will provide an overview of the top solar installers in the US, factors to consider when choosing a solar installer, steps to take when choosing the best solar installer, and the benefits of choosing the best solar installer.
