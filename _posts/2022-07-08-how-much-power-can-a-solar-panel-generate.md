@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Much Power Can a Solar Panel Generate?
-permalink: how-much-power-can-a-solar-panel-generate
+permalink: solar-panel-generate
 featured: "false"
 author: killcreek
 date: 2022-07-08T16:35:05+00:00
