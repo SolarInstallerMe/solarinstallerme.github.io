@@ -57,6 +57,3 @@ Net metering also features a two-way link that enables electricity to move both 
 
 In essence, a grid connection is a shared solar energy storage system. It isn’t accessible everywhere, though. Before making any long-term choices, such as purchasing a solar panel system or battery storage option, you should investigate the net metering regulations in your region.
 
-### **Contact Us For Solar Panel and Backup Power Solutions**
-
-To guarantee that your home can always keep the lights on, Our Solar companies offer industry-leading solar panels as well as top-notch backup power. Contact us right now if you’re prepared to go solar.

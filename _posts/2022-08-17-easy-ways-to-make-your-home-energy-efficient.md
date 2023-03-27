@@ -29,4 +29,4 @@ When warm or cool air escapes from your home through old, drafty windows, you ha
 
 **Also Read: [Factors that Affect Your Total Solar Panel Installation Cost](/factors-that-affect-your-total-solar-panel-installation-cost/)**
 
-Looking for other tips to [reduce your electric bill](/ways-you-can-save-energy-during-the-winter/)? You might find a solution by switching to a solar power system. Contact us today for a free solar energy quote.
+Looking for other tips to [reduce your electric bill](/ways-you-can-save-energy-during-the-winter/)? You might find a solution by switching to a solar power system.
