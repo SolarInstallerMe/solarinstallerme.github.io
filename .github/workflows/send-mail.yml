@@ -1,0 +1,12 @@
+- name: Send email
+  uses: dawidd6/action-send-mail@v2.4.0
+  with:
+    server_address: smtp.googlemail.com
+    server_port: 465
+    username: $
+    password: $
+    subject: Publishing Blog
+    # Literal body:
+    body: Build job of $ completed successfully!
+    to: mrgabonijeff@gmail.com@gmail.com
+    from: GitHub Blog Repo
