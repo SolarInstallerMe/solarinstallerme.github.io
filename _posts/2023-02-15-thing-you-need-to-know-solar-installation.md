@@ -2,6 +2,7 @@
 layout: post
 title: "Things You Need to Know: Solar Installation"
 featured: "false"
+date: 2023-04-07T14:01:33.800Z
 image: /assets/images/solar-installation.webp
 categories:
   - solar
