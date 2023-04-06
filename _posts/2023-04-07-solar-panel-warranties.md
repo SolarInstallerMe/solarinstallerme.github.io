@@ -1,9 +1,9 @@
 ---
-title: All You Need To Know About Solar Panel Warranties
 layout: post
+title: All You Need To Know About Solar Panel Warranties
 featured: "false"
+date: 2023-04-06T14:24:36.700Z
 image: /assets/images/solar-warranties.jpeg
-date: 2023-4-7 00:00 +0000
 categories:
   - Solar
 author: killcreek
