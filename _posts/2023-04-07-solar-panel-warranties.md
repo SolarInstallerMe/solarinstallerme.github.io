@@ -1,6 +1,5 @@
 ---
 title: All You Need To Know About Solar Panel Warranties
-date: 2023-01-03T06:06:00+00:00
 layout: post
 featured: "false"
 image: /assets/images/solar-warranties.jpeg
