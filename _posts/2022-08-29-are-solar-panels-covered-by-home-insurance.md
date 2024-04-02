@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Are Solar Panels Covered by Home Insurance?"
 date: "2022-08-29T17:37:22+00:00"
 author: killcreek
@@ -7,9 +8,9 @@ featured: "false"
 image: /assets/images/solar-home.jpg
 categories:
 categories:
-  - "Home Insurance"
+  - Home Insurance"
   - Solar
-  - "Solar Installer"
+  - Solar Installer
 ---
 
 **Are Solar Panels Covered by Home Insurance?:** If you’re looking for a means to produce electricity while also saving money, solar panels are a wonderful investment. You’ll also want to safeguard your solar panel installation, just like you would any other investment.

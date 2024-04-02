@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Top Benefits of Installing Solar Panels on Your Home"
 date: "2022-07-13T17:23:06+00:00"
 author: killcreek
@@ -7,7 +8,7 @@ featured: "false"
 image: /assets/images/advantages_and_disadvantages_of_solar_energy.avif
 categories:
   - Solar
-  - "Solar Installer"
+  - Solar Installer
 ---
 
 The Top Benefits of Installing Solar Panels on Your Home: More and more households are converting to clean, renewable electricity sources as the cost of renewable energy continues to fall. Among these, a residential solar panel is among the most accessible and plentiful. 1 solar created $17 billion in investments for the U.S. economy in 2018, according to the Solar Energy Industries Association.

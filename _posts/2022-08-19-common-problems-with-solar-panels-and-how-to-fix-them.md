@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Common Problems with Solar Panels and How to Fix Them"
 date: "2022-08-19T22:27:32+00:00"
 author: killcreek
@@ -7,7 +8,7 @@ featured: "false"
 image: /assets/images/AddingPanels.png
 categories:
   - Solar
-  - "Solar Installer"
+  - Solar Installer
 ---
 
 **Common Problems with Solar Panels and How to Fix Them:** Solar panels enable positive change around the globe while being a [wise investment ](/top-benefits-of-installing-solar-panels-on-your-home/)for a more sustainable planet. Of course, it helps that you may reduce your electric bill costs as well. Although [solar panel systems have many advantages](/what-are-the-pros-and-cons-of-solar-energy/), some people are hesitant to install them because of possible issues or negatives.

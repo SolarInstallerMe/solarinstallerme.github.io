@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Solar Panel Problems Troubleshooting Checklist"
 date: "2022-09-15T23:40:38+00:00"
 author: killcreek

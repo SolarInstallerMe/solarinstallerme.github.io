@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Reasons To Invest In Solar While Working From Home"
 date: "2022-08-01T23:53:22+00:00"
 author: killcreek

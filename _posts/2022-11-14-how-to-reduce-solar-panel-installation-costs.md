@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "How to Reduce Solar Panel Installation Costs"
 date: "2022-11-14T21:53:50+00:00"
 author: killcreek
@@ -7,7 +8,7 @@ featured: "false"
 image: /assets/images/reduce-splar-cost.jpg
 categories:
   - Solar
-  - "Solar Installer"
+  - Solar Installer
 ---
 
 **How to Reduce Solar Panel Installation Costs:** The installation of solar panels is a fantastic investment in your future and property. Despite this, many consumers are discouraged from adopting solar because of the upfront price and installation charges. Why, then, solar? There are a lot of long-term benefits to installing solar panels, after all.

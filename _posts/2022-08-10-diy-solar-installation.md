@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Understanding the Pros and Cons of DIY Solar Installation"
 date: "2022-08-10T21:37:42+00:00"
 author: killcreek

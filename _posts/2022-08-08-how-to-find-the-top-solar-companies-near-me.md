@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "How to Find the Top Solar Companies Near Me"
 date: "2022-08-08T21:31:02+00:00"
 author: killcreek

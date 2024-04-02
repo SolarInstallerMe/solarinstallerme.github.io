@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Ways You Can Save Energy During The Winter"
 date: "2022-07-18T23:24:37+00:00"
 author: killcreek
@@ -7,7 +8,7 @@ featured: "false"
 image: /assets/images/ways-conserve-energy-winter.webp
 categories:
   - Solar
-  - "Solar Installer"
+  - Solar Installer
 ---
 
 **Ways You Can Save Energy During The Winter**: Everyone wants to enjoy a warm home throughout the winter, whether they own it or rent it. But given that energy prices are much higher during the coldest season of the year, this can really drive up your electricity bill. We’ve got five energy-saving suggestions for you that will help you minimize your heating costs, use less hot water, and emit less CO2 this winter.

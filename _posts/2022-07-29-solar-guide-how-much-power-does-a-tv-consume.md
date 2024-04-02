@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Solar Guide: How Much Power Does a TV Consume?"
 date: "2022-07-29T19:54:07+00:00"
 author: killcreek

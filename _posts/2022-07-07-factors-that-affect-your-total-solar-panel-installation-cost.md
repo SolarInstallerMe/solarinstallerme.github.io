@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Factors that Affect Your Total Solar Panel Installation Cost"
 date: "2022-07-07T16:24:27+00:00"
 author: killcreek

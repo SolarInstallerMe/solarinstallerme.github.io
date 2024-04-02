@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "The Cost of Solar Panels: Is It Worth It?"
 date: "2022-09-14T20:54:47+00:00"
 author: killcreek

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "What Are the Different Types of Solar Energy?"
 date: "2022-08-26T22:18:27+00:00"
 author: killcreek

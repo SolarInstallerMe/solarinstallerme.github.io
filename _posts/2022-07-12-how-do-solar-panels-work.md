@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "How Do Solar Panels Work?"
 author: killcreek
 layout: post

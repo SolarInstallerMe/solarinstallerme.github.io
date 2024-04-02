@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "How to Go Off The Grid With Solar"
 date: "2022-08-18T22:51:26+00:00"
 author: killcreek
@@ -7,7 +8,7 @@ featured: "false"
 image: /assets/images/grid.webp
 categories:
   - Solar
-  - "Solar Installer"
+  - Solar Installer
 ---
 
 Going off the grid with solar has [several benefits](/top-benefits-of-installing-solar-panels-on-your-home/), including lowering your carbon footprint, avoiding reliance on fossil fuels, and the most popular one: asserting your independence from utility providers. Going off the grid is undoubtedly more challenging than staying connected, but it is possible.

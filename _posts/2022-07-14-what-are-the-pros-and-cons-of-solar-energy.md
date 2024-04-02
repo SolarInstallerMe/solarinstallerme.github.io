@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "What are the Pros and Cons of Solar Energy?"
 date: "2022-07-14T20:34:16+00:00"
 author: killcreek
@@ -7,7 +8,7 @@ featured: "false"
 image: /assets/images/solar-pros-cons.jpg
 categories:
   - Solar
-  - "Solar Installer"
+  - Solar Installer
 ---
 
 What are the Pros and Cons of Solar Energy?: Did you know that the sun’s energy supply to the earth for one hour could fulfill one year’s global energy needs? Undoubtedly, the sun is a strong source of energy, and while we can’t but gather a fraction of that energy, it can make a huge difference to the world to harness that power by installing solar panels.

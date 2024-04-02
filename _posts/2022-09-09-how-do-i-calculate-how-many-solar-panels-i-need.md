@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "How Do I Calculate How Many Solar Panels I Need?"
 date: "2022-09-09T00:23:38+00:00"
 author: killcreek

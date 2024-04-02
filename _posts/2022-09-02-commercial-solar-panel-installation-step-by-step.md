@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Commercial Solar Panel Installation Step by Step"
 date: "2022-09-02T00:08:04+00:00"
 author: killcreek
@@ -6,7 +7,7 @@ layout: post
 featured: "false"
 image: /assets/images/Commercial-Solar.jpg
 categories:
-  - "Solar for Business"
+  - Solar for Business
 ---
 
 Commercial Solar Panel Installation Step by Step: A solar energy system can be a wise financial decision for your company and a valuable addition to almost any commercial site. In addition to lowering your electricity expenses dramatically, you’ll also be showing a strong commitment to sustainability and joining the ranks of several highly successful companies that have done the same.
