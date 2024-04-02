@@ -44,7 +44,7 @@ Affiliate marketing can also improve a business's search engine optimization (SE
 
 Affiliate marketing is a performance-based marketing strategy. This means that businesses only pay a commission when a sale is made. This incentivizes affiliates to work harder to promote the business's products or services, resulting in higher sales for the business.
 
-> Related : [TikTok Franchise - A Lucrative Business Opportunity for the Digital Age](https://solarinstaller.me/tiktok-franchise/)
+> Related : [TikTok Franchise - A Lucrative Business Opportunity for the Digital Age](/tiktok-franchise/)
 
 ## Best Practices for Affiliate Marketing | A Free Virtual Event
 

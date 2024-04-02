@@ -30,7 +30,7 @@ Another key difference is the level of accuracy. A roofing estimate is based on 
 
 Finally, a roofing proposal may be more expensive than a roofing estimate, as it includes a higher level of detail and often includes additional services and warranties that are not included in a basic estimate.
 
-> **A﻿lso Read:** [A Comprehensive Guide to Different Solar Panel Types](https://solarinstaller.me/a-comprehensive-guide-to-different-solar-panel-types/)
+> **A﻿lso Read:** [A Comprehensive Guide to Different Solar Panel Types](/a-comprehensive-guide-to-different-solar-panel-types/)
 
 ## Which One Should You Choose?
 

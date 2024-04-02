@@ -42,7 +42,7 @@ Regular maintenance is key to maximizing the benefits of your solar panel warran
 
 ### Proper Installation
 
-Proper[ solar installation](https://solarinstaller.me/thing-you-need-to-know-solar-installation/) is critical to the long-term performance and warranty coverage of your solar panels. Choose a reputable solar panel installer who has experience with your specific[ type of solar panels](https://solarinstaller.me/a-comprehensive-guide-to-different-solar-panel-types/). Ensure that your installer follows the manufacturer's installation guidelines to ensure optimal performance and compliance with warranty requirements.
+Proper[ solar installation](/thing-you-need-to-know-solar-installation/) is critical to the long-term performance and warranty coverage of your solar panels. Choose a reputable solar panel installer who has experience with your specific[ type of solar panels](/a-comprehensive-guide-to-different-solar-panel-types/). Ensure that your installer follows the manufacturer's installation guidelines to ensure optimal performance and compliance with warranty requirements.
 
 ### Monitor Energy Output
 

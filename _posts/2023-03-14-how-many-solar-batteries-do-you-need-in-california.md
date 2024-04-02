@@ -30,13 +30,13 @@ The size of your solar panel system also affects the number of solar batteries y
 
 ### 3. Your Home's Location and Orientation
 
-Your home's [location and orientation are also important factors to consider](https://solarinstaller.me/solar-energy-a-comprehensive-guide-to-installation-benefits-and-cost/#:~:text=This%20involves%20evaluating%20the%20amount%20of%20sunlight%20the%20location%20receives). If your home receives a lot of sunlight, you will generate more excess solar power, and you will need more batteries to store it. Homes that are shaded or face the wrong direction may generate less solar power and require fewer batteries.
+Your home's [location and orientation are also important factors to consider](/solar-energy-a-comprehensive-guide-to-installation-benefits-and-cost/#:~:text=This%20involves%20evaluating%20the%20amount%20of%20sunlight%20the%20location%20receives). If your home receives a lot of sunlight, you will generate more excess solar power, and you will need more batteries to store it. Homes that are shaded or face the wrong direction may generate less solar power and require fewer batteries.
 
 ### 4. Your Energy Goals
 
 Your energy goals also play a role in determining the number of solar batteries you need. If you want to go completely off-grid and rely solely on solar power, you will need more batteries than someone who wants to supplement their grid power with solar power.
 
-> **A﻿lso Read:** [A Comprehensive Guide to Different Solar Panel Types](https://solarinstaller.me/a-comprehensive-guide-to-different-solar-panel-types/)
+> **A﻿lso Read:** [A Comprehensive Guide to Different Solar Panel Types](/a-comprehensive-guide-to-different-solar-panel-types/)
 
 ## How to Calculate the Number of Solar Batteries You Need
 
@@ -44,7 +44,7 @@ Now that you know the factors that affect the number of solar batteries you need
 
 ### 1. Determine Your Energy Consumption
 
-The first step is to determine your energy consumption. You can do this by looking at your electricity bills or using an [online solar calculator](https://solarinstaller.me/calculator/). Once you have your energy consumption, you can use it to calculate the size of your solar panel system.
+The first step is to determine your energy consumption. You can do this by looking at your electricity bills or using an [online solar calculator](/calculator/). Once you have your energy consumption, you can use it to calculate the size of your solar panel system.
 
 ### 2. Determine the Size of Your Solar Panel System
 
@@ -58,7 +58,7 @@ The capacity of your solar batteries is calculated by multiplying your daily ene
 
 Finally, you will determine the number of solar batteries you need by dividing the capacity of your solar batteries by the capacity of each battery. For example, if you have a 10 kWh battery capacity, you will need four batteries to reach a total capacity of 40 kWh.
 
-> **A﻿lso Read:** [Things You Need to Know: Solar Installation](https://solarinstaller.me/thing-you-need-to-know-solar-installation/)
+> **A﻿lso Read:** [Things You Need to Know: Solar Installation](/thing-you-need-to-know-solar-installation/)
 
 ## Conclusion
 
@@ -66,8 +66,8 @@ Determining the number of solar batteries you need in California depends on vari
 
 ## FAQs
 
-1. **What is the lifespan of solar batteries?** Solar batteries typically [have a lifespan of 5 to 15 years](https://solarinstaller.me/what-is-the-life-expectancy-of-a-solar-battery/), depending on the type and usage.
+1. **What is the lifespan of solar batteries?** Solar batteries typically [have a lifespan of 5 to 15 years](/what-is-the-life-expectancy-of-a-solar-battery/), depending on the type and usage.
 2. **Can solar batteries power my entire home?** Yes, solar batteries can power your entire home if you have enough batteries and a large enough solar panel system.
 3. **How much do solar batteries cost in California?** The cost of solar batteries in California varies depending on the type, capacity, and brand. On average, solar batteries can cost between $5,000 to $10,000.
 4. **Can I install solar batteries myself?** It is recommended to have a professional install your solar batteries to ensure proper installation and safety.
-5. **Are there any incentives for installing solar batteries in California?** Yes, there are [solar incentives and rebates ](https://solarinstaller.me/understanding-solar-rebates-how-they-work-and-how-to-get-them/)available for installing solar batteries in California, such as the Self-Generation Incentive Program (SGIP).
+5. **Are there any incentives for installing solar batteries in California?** Yes, there are [solar incentives and rebates ](/understanding-solar-rebates-how-they-work-and-how-to-get-them/)available for installing solar batteries in California, such as the Self-Generation Incentive Program (SGIP).

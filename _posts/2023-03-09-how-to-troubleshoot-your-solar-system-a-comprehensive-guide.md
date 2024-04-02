@@ -42,7 +42,7 @@ The monitoring system is responsible for tracking the energy production of the s
 - Connectivity Issues: If the monitoring system loses connectivity with the internet, it may not track the energy production of the solar system.
 - Sensor Issues: The sensors in the monitoring system can malfunction, resulting in inaccurate readings.
 
-> **A﻿lso Read: [A Comprehensive Guide to Different Solar Panel Types](https://solarinstaller.me/a-comprehensive-guide-to-different-solar-panel-types/)**
+> **A﻿lso Read: [A Comprehensive Guide to Different Solar Panel Types](/a-comprehensive-guide-to-different-solar-panel-types/)**
 
 ## Troubleshooting Your Solar System
 
@@ -77,9 +77,9 @@ If your solar system has a battery and you're experiencing issues, try the follo
 
 - **Check the Battery Charge:** Make sure the battery is fully charged and that it's not being discharged too quickly.
 - **Check the Wiring:** Make sure the wiring connected to the battery is secure and not damaged.
-- **Consult Your Installer:** If you're still experiencing issues, contact your [solar installer](https://solarinstaller.me/thing-you-need-to-know-solar-installation/) or the battery manufacturer for assistance.
+- **Consult Your Installer:** If you're still experiencing issues, contact your [solar installer](/thing-you-need-to-know-solar-installation/) or the battery manufacturer for assistance.
 
-> **Also Read: [Everything You Need to Know About the Tesla Powerwall](https://solarinstaller.me/everything-you-need-to-know-about-the-tesla-powerwall/)**
+> **Also Read: [Everything You Need to Know About the Tesla Powerwall](/everything-you-need-to-know-about-the-tesla-powerwall/)**
 
 ## Preventative Maintenance
 

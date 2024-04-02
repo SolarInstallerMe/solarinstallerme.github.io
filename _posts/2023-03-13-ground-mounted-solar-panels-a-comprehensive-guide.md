@@ -8,7 +8,7 @@ categories:
 author: killcreek
 ---
 
-Are you considering[ installing solar panels](https://solarinstaller.me/thing-you-need-to-know-solar-installation/) on your property but don't have enough roof space? Ground-mounted solar panels are an excellent alternative that can provide you with the energy savings you need. In this comprehensive guide, we will cover everything you need to know about ground-mounted solar panels.
+Are you considering[ installing solar panels](/thing-you-need-to-know-solar-installation/) on your property but don't have enough roof space? Ground-mounted solar panels are an excellent alternative that can provide you with the energy savings you need. In this comprehensive guide, we will cover everything you need to know about ground-mounted solar panels.
 
 ## What are Ground Mounted Solar Panels?
 
@@ -30,7 +30,7 @@ Ground-mounted solar panels are easier to maintain compared to roof-mounted sola
 
 Ground-mounted solar panels can be installed in any location on the property, as long as there is enough space and sunlight. This means that the homeowner has more flexibility in choosing the location of the solar panel installation.
 
-> **A﻿lso Read: [Solar Energy: A Comprehensive Guide to Installation, Benefits, and Cost](https://solarinstaller.me/solar-energy-a-comprehensive-guide-to-installation-benefits-and-cost/)**
+> **A﻿lso Read: [Solar Energy: A Comprehensive Guide to Installation, Benefits, and Cost](/solar-energy-a-comprehensive-guide-to-installation-benefits-and-cost/)**
 
 ## Disadvantages of Ground Mounted Solar Panels
 

@@ -24,7 +24,7 @@ Inverters are essential components of any solar energy system. They are responsi
 
 ## Solar Batteries
 
-Solar batteries are an optional but useful accessory for any solar energy system. They allow you to store excess energy produced by your solar panels during the day for use at night or during times of high energy demand. There are several different types of solar batteries available, including lead-acid batteries, lithium-ion batteries like the [tesla powerwall](https://solarinstaller.me/everything-you-need-to-know-about-the-tesla-powerwall/) , and saltwater batteries. Each type of battery has its own advantages and disadvantages, depending on your specific needs.
+Solar batteries are an optional but useful accessory for any solar energy system. They allow you to store excess energy produced by your solar panels during the day for use at night or during times of high energy demand. There are several different types of solar batteries available, including lead-acid batteries, lithium-ion batteries like the [tesla powerwall](/everything-you-need-to-know-about-the-tesla-powerwall/) , and saltwater batteries. Each type of battery has its own advantages and disadvantages, depending on your specific needs.
 
 ## Solar Charge Controllers
 
@@ -34,7 +34,7 @@ Solar charge controllers are essential for any solar energy system that uses bat
 
 Monitoring systems are important solar panel accessories that allow you to keep track of the performance of your solar energy system. They can provide you with real-time data on how much energy your system is producing, how much energy you are using, and how much energy you are storing in your batteries. This information can help you optimize the performance of your system and ensure that you are getting the most out of your investment.
 
-> A﻿lso Read: [How to Troubleshoot Your Solar System: A Comprehensive Guide](https://solarinstaller.me/how-to-troubleshoot-your-solar-system-a-comprehensive-guide/)
+> A﻿lso Read: [How to Troubleshoot Your Solar System: A Comprehensive Guide](/how-to-troubleshoot-your-solar-system-a-comprehensive-guide/)
 
 ## Surge Protection Devices
 
@@ -46,7 +46,7 @@ Keeping your solar panels clean is essential for maintaining their efficiency an
 
 ## Conclusion
 
-Solar power is a great way to reduce your carbon footprint and [save money on your energy bills](https://solarinstaller.me/solar-energy-a-comprehensive-guide-to-installation-benefits-and-cost/). However, to maximize the efficiency and effectiveness of your solar energy system, you need the right solar panel accessories. From mounting systems to inverters, batteries to monitoring systems, surge protection devices to cleaning tools, there are many different accessories that can help you get the most out of your solar panels.
+Solar power is a great way to reduce your carbon footprint and [save money on your energy bills](/solar-energy-a-comprehensive-guide-to-installation-benefits-and-cost/). However, to maximize the efficiency and effectiveness of your solar energy system, you need the right solar panel accessories. From mounting systems to inverters, batteries to monitoring systems, surge protection devices to cleaning tools, there are many different accessories that can help you get the most out of your solar panels.
 
 Investing in high-quality solar panel accessories can make a big difference in the performance and longevity of your solar energy system. By choosing the right accessories, you can ensure that your system is running at maximum efficiency, producing as much energy as possible, and saving you money on your energy bills.
 
@@ -62,7 +62,7 @@ Investing in high-quality solar panel accessories can make a big difference in t
 
 3. **What is the lifespan of a solar battery?**
 
-- The[ lifespan of a solar battery ](https://solarinstaller.me/what-is-the-life-expectancy-of-a-solar-battery/)depends on several factors, including the type of battery, how often it is charged and discharged, and the conditions it is kept in. On average, solar batteries can last anywhere from 5 to 15 years.
+- The[ lifespan of a solar battery ](/what-is-the-life-expectancy-of-a-solar-battery/)depends on several factors, including the type of battery, how often it is charged and discharged, and the conditions it is kept in. On average, solar batteries can last anywhere from 5 to 15 years.
 
 4. **Can I install surge protection devices myself?**
 

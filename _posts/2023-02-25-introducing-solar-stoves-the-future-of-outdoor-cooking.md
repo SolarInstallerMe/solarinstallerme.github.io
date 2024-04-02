@@ -28,7 +28,7 @@ There are many advantages of using a Solar Stove for outdoor cooking, including:
 4. **Healthy**:Solar Stoves cook food in a healthy way, as they do not use any oil or butter, resulting in a low-fat and nutritious meal.
 5. **Safe:** Solar Stoves do not involve any flames or fire, making them a safe option for outdoor cooking.
 
-> **A﻿lso Read: <!--StartFragment-->[A Comprehensive Guide to Different Solar Panel Types](https://solarinstaller.me/a-comprehensive-guide-to-different-solar-panel-types/)**
+> **A﻿lso Read: <!--StartFragment-->[A Comprehensive Guide to Different Solar Panel Types](/a-comprehensive-guide-to-different-solar-panel-types/)**
 >
 > <!--EndFragment--> ﻿
 
@@ -57,7 +57,7 @@ Solar Stoves are an excellent alternative to traditional stoves for outdoor cook
 
 So, if you're planning to go camping or have an outdoor adventure, consider investing in a Solar Stove. Not only will it enhance your cooking experience, but it will also contribute to a better and healthier planet.
 
-> **A﻿lso Read: [Solar Energy: A Comprehensive Guide to Installation, Benefits, and Cost](https://solarinstaller.me/solar-energy-a-comprehensive-guide-to-installation-benefits-and-cost/)**
+> **A﻿lso Read: [Solar Energy: A Comprehensive Guide to Installation, Benefits, and Cost](/solar-energy-a-comprehensive-guide-to-installation-benefits-and-cost/)**
 
 ### Factors to Consider When Choosing a Solar Stove
 

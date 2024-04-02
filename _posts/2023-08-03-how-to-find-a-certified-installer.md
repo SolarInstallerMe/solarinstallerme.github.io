@@ -40,7 +40,7 @@ Tesla offers different certifications for installers based on the type of produc
 
 ## The Installation Process
 
-The installation process may vary depending on the type of Tesla product you are getting. Here, we provide an overview of the typical installation process for solar panels and [Powerwall](https://solarinstaller.me/everything-you-need-to-know-about-the-tesla-powerwall/):
+The installation process may vary depending on the type of Tesla product you are getting. Here, we provide an overview of the typical installation process for solar panels and [Powerwall](/everything-you-need-to-know-about-the-tesla-powerwall/):
 
 ### Solar Panel Installation Process
 
@@ -55,7 +55,7 @@ The installation process may vary depending on the type of Tesla product you are
 2. **Mounting and Connection:** The Powerwall will be mounted on the wall, and the electrical connections will be established to integrate it with your solar panel system or the grid.
 3. **Testing and Commissioning:** The installer will conduct thorough tests to ensure the Powerwall is functioning correctly and commission it for regular use.
 
-> **R﻿elated:**   <!--StartFragment-->[Tesla Superchargers: How Does It Works?](https://solarinstaller.me/tesla-superchargers-how-does-it-works/)
+> **R﻿elated:**   <!--StartFragment-->[Tesla Superchargers: How Does It Works?](/tesla-superchargers-how-does-it-works/)
 >
 >  
 
