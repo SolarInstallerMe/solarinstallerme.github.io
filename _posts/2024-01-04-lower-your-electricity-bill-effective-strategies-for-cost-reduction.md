@@ -88,4 +88,4 @@ Now is the time to take action! Implement these energy-saving tips and witness t
 
 ### **See how much money a solar energy system will save you.**
 
-[![](images/button_get-a-quote.png)](/solar-utility/)
+[![](images/button_get-a-quote.png)](/solar-calculator/)

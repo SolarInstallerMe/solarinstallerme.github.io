@@ -32,7 +32,7 @@ Not all air conditioners are created equal when it comes to energy consumption. 
 
 The amount of sunlight your location receives is a critical factor in determining the number of solar panels you’ll need. Areas with abundant sunlight will require fewer panels compared to places with limited sun exposure.
 
-To get a precise estimate for your location, you can utilize our [Solar Utility](/solar-utility/). This tool considers your geographical coordinates and local weather patterns to provide tailored information.
+To get a precise estimate for your location, you can utilize our [Solar Utility](/solar-calculator/). This tool considers your geographical coordinates and local weather patterns to provide tailored information.
 
 ## Consider Your Roof’s Potential
 
@@ -100,6 +100,6 @@ To help you assess the financial viability of solar panels, you can explore our 
 
 ## Conclusion
 
-In conclusion, the number of solar panels you need to run an air conditioner depends on various factors, including your energy consumption, the type of air conditioner, your location, and the efficiency of the panels. To get an accurate estimate tailored to your specific situation, use our [Solar Calculator](/solar-calculator/) and [Solar Utility](/solar-utility/).
+In conclusion, the number of solar panels you need to run an air conditioner depends on various factors, including your energy consumption, the type of air conditioner, your location, and the efficiency of the panels. To get an accurate estimate tailored to your specific situation, use our [Solar Calculator](/solar-calculator/) and [Solar Utility](/solar-calculator/).
 
 Remember that switching to solar power not only reduces your environmental footprint but can also lead to significant energy savings in the long run. Plus, with a well-designed solar panel system, you can enjoy cool, comfortable indoor spaces while basking in the satisfaction of a sustainable and eco-friendly choice.

@@ -26,7 +26,7 @@ Solar utility companies play a significant role in the adoption of solar energy 
 
 ### Exploring Solar Utility Services
 
-Solar utility services can vary from region to region. In Texas, for example, solar utility companies have been making significant strides in the adoption of solar energy. To learn more about the landscape of solar utilities in Texas, check out our article on [Solar Utility Services in Texas](/solar-utility/).
+Solar utility services can vary from region to region. In Texas, for example, solar utility companies have been making significant strides in the adoption of solar energy. To learn more about the landscape of solar utilities in Texas, check out our article on [Solar Utility Services in Texas](/solar-calculator/).
 
 ## The Solar Panel Installation Process
 

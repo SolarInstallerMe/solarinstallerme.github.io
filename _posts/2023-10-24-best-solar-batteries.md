@@ -65,4 +65,4 @@ With the right choices and a commitment to renewable energy, you can enjoy the b
 In less than a minute, we'll show you just how  
 much switching to solar can save you!
 
-[![](images/button_get-a-quote-1.png)](/solar-utility/)
+[![](images/button_get-a-quote-1.png)](/solar-calculator/)

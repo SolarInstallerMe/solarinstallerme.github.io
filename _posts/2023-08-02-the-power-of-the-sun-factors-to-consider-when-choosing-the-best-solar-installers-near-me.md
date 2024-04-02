@@ -27,7 +27,7 @@ Solar power is:
 
 ### **Cost-effective**
 
-Solar panels can help you lower your [utility](/solar-utility/) bill by generating your own power from the sun. You can also take advantage of tax credits, rebates, and incentives that make solar more affordable. 
+Solar panels can help you lower your [utility](/solar-calculator/) bill by generating your own power from the sun. You can also take advantage of tax credits, rebates, and incentives that make solar more affordable. 
 
 Plus, solar panels can increase the value of your property and make it more attractive to buyers.
 

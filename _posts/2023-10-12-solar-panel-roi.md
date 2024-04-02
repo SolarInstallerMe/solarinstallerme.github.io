@@ -26,7 +26,7 @@ Determining the ROI of your solar panels involves some number crunching. The [s
 
 One of the most common applications of solar panels is for residential use. Homeowners can reduce their utility bills and earn by generating excess energy. Installing solar panels on your property can not only make your home more energy-efficient but also enhance its value.
 
-The [solar utility](/solar-utility/) page provides insights into how residential solar panels can be integrated into your daily life, helping you make a well-informed decision.
+The [solar utility](/solar-calculator/) page provides insights into how residential solar panels can be integrated into your daily life, helping you make a well-informed decision.
 
 ## ROI for Businesses
 
@@ -58,7 +58,7 @@ Now that you’re well-acquainted with the various aspects of solar panels let�
 
 ### Take Advantage of Incentives
 
-Numerous government incentives and rebates are available to encourage solar panel installations. These incentives can significantly reduce your upfront costs and shorten the payback period. Check our [solar utility](/solar-utility/) page for details on incentives in your area.
+Numerous government incentives and rebates are available to encourage solar panel installations. These incentives can significantly reduce your upfront costs and shorten the payback period. Check our [solar utility](/solar-calculator/) page for details on incentives in your area.
 
 ### Net Metering
 

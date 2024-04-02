@@ -3,7 +3,7 @@ topmenu:
   - title: Home
     url: ""
   - title: Solar Calculator
-    url: "calculator/"
+    url: "solar-calculator/"
 # - title:
 #   url:
 #   class: "ml-2 btn btn-dark text-white px-3"

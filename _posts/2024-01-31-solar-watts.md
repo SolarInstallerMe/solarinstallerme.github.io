@@ -46,7 +46,7 @@ Building your solar panel setup is a straightforward process. Follow these easy 
 
 7. **Calculate Total Power Output:** If you’re installing multiple solar panels, calculate the total power output by multiplying the wattage rating by the number of panels and the peak sunlight hours. This provides an estimate of your daily energy production.
 
-9. **Get a Quote from Solar Installers Near Me:** Reach out to Solar Installers Near Me for a [free solar quote](/solar-utility/) tailored to your home’s requirements. Their team can recommend the right number and type of solar panels to meet your energy goals.
+9. **Get a Quote from Solar Installers Near Me:** Reach out to Solar Installers Near Me for a [free solar quote](/solar-calculator/) tailored to your home’s requirements. Their team can recommend the right number and type of solar panels to meet your energy goals.
 
 11. **Professional Installation Assistance:** If needed, Solar Installers Near Me can provide professional installation assistance. Their experts ensure that your solar panel system is set up correctly for optimal efficiency.
 

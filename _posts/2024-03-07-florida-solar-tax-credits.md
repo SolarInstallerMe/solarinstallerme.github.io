@@ -45,7 +45,7 @@ Florida offers various state and local incentives to make solar more affordable 
 
 - **Utility Rebates**: Many Florida utilities offer rebates for solar installations. Check with your local utility provider to see if they offer any incentives.
 
-- **Net Metering**: Florida has strong net metering policies, which allow you to sell excess electricity your solar panels generate back to the grid, further reducing your energy costs. Learn more about net metering [here](/solar-utility/).
+- **Net Metering**: Florida has strong net metering policies, which allow you to sell excess electricity your solar panels generate back to the grid, further reducing your energy costs. Learn more about net metering [here](/solar-calculator/).
 
 ### Federal and State Programs
 

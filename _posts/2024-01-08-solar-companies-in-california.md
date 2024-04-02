@@ -16,37 +16,37 @@ California, often referred to as “The Sunshine State,” is not only known for
 
 Sunrun is a well-established solar company that has been serving California residents for years. They are known for their innovative solar lease and power purchase agreement (PPA) options, making solar energy accessible to a wide range of homeowners. Sunrun also offers a variety of financing options, including zero-down options, making it easier for Californians to transition to solar power without breaking the bank. With a strong focus on customer service and satisfaction, Sunrun consistently ranks as one of the top solar companies in the state.
 
-[![get a quote](images/button_get-a-quote.png)](/solar-utility/)
+[![get a quote](images/button_get-a-quote.png)](/solar-calculator/)
 
 ### SunPower
 
 SunPower is a California-based solar company with a reputation for producing some of the most efficient solar panels on the market. Their high-efficiency panels can generate more electricity in less space, making them an excellent choice for homeowners with limited roof space. SunPower also offers a range of financing options, including solar leases and loans, to help homeowners make the switch to solar power affordably. With a commitment to sustainability and a track record of quality, SunPower is a top choice for many Californians.
 
-[![get a quote](images/button_get-a-quote.png)](/solar-utility/)
+[![get a quote](images/button_get-a-quote.png)](/solar-calculator/)
 
 ### Tesla Solar
 
 When you think of innovation in the renewable energy sector, Tesla undoubtedly comes to mind. Tesla Solar, formerly known as SolarCity, is a subsidiary of Tesla, Inc. They offer solar panels, solar roofs, and energy storage solutions, including the popular Powerwall. Tesla’s solar products are not only sleek and aesthetically pleasing but also highly efficient. By combining solar panels with Tesla’s energy storage technology, homeowners can enjoy reliable and sustainable energy around the clock.
 
-[![](images/image.png)](/solar-utility/)
+[![](images/image.png)](/solar-calculator/)
 
 ### Vivint Solar
 
 Vivint Solar is another prominent player in the California solar market. They offer a wide range of solar solutions, from traditional solar panels to solar batteries and smart home integration. Vivint Solar’s emphasis on technology sets them apart, allowing homeowners to monitor and control their solar systems remotely through a user-friendly app. Their commitment to customer satisfaction is evident in their high ratings and reviews from California homeowners.
 
-[![get a quote](images/button_get-a-quote.png)](/solar-utility/)
+[![get a quote](images/button_get-a-quote.png)](/solar-calculator/)
 
 ### Sunnova
 
 Sunnova is a national solar company that operates in California and several other states. They specialize in providing solar and energy storage solutions to homeowners through various financing options, including leases and loans. Sunnova’s focus on customer service and its industry-leading warranty coverage make it a solid choice for those looking to invest in solar energy with peace of mind.
 
-[![get a quote](images/button_get-a-quote.png)](/solar-utility/)
+[![get a quote](images/button_get-a-quote.png)](/solar-calculator/)
 
 ### SunLux Energy
 
 SunLux Energy is a California solar company known for its competitive pricing and transparent approach. They offer a variety of solar financing options, including solar leases and loans, to fit different budgets. SunLux Energy takes pride in providing customized solar solutions tailored to each customer’s unique needs. Their dedication to affordability and customer satisfaction has garnered them a loyal following in the Golden State.
 
-[![get a quote](images/button_get-a-quote.png)](/solar-utility/)
+[![get a quote](images/button_get-a-quote.png)](/solar-calculator/)
 
 ## Conclusion
 

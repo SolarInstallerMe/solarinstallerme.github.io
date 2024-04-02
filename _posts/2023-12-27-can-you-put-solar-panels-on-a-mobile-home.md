@@ -92,7 +92,7 @@ Before declaring victory, perform a thorough system check. Ensure all connection
 
 ## **Cost Considerations and Savings**
 
-Addressing the financial aspect – understand the costs involved, potential savings, and return on investment when going solar. Estimate your installation cost and savings with a [cost of solar panel calculator](/solar-calculator-estimate-your-installation-cost-and-savings/).
+Addressing the financial aspect – understand the costs involved, potential savings, and return on investment when going solar. Estimate your installation cost and savings with a [cost of solar panel calculator](/solar-calculator/-estimate-your-installation-cost-and-savings/).
 
 Read: [Solar Farms pros and cons](/exploring-the-pros-and-cons-of-solar-farming/)
 

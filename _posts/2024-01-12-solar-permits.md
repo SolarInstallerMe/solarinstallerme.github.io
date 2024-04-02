@@ -22,7 +22,7 @@ This tool provides tailored insights into local regulations and helps you estima
 
 ### Utility Connection
 
-In many cases, your utility company might have specific requirements and guidelines for connecting your solar installation to the grid. Be sure to check with your utility provider to ensure your solar project complies with their standards. To get more insights into this crucial aspect, estimate your [Solar Utility](/solar-utility/).
+In many cases, your utility company might have specific requirements and guidelines for connecting your solar installation to the grid. Be sure to check with your utility provider to ensure your solar project complies with their standards. To get more insights into this crucial aspect, estimate your [Solar Utility](/solar-calculator/).
 
 ## Types of Solar Permits
 
@@ -68,6 +68,6 @@ The permit application process can be time-consuming, causing delays in your sol
 
 In conclusion, legal solar power is not just about the technology but also about complying with the necessary regulations. By understanding the permit requirements, types, and application process, you can pave the way for a smooth and legally sound solar installation.
 
-Remember, each location may have its unique set of requirements. Utilize our [Solar Calculator](/solar-calculator/) and [Solar Utility](/solar-utility/) tools to access location-specific information and streamline your solar project.
+Remember, each location may have its unique set of requirements. Utilize our [Solar Calculator](/solar-calculator/) and [Solar Utility](/solar-calculator/) tools to access location-specific information and streamline your solar project.
 
 While permits can be daunting, they are essential for the sustainable future we all aspire to achieve. Embrace legal solar power, and start making a positive impact on the environment and your energy bills today.

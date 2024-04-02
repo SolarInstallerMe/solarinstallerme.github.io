@@ -62,4 +62,4 @@ While the environmental and financial benefits of solar panels are compelling, t
 
 7. **Aesthetics**: Some people are concerned about the appearance of solar panels on their roofs. However, solar panel technology has advanced, and many modern systems are designed to be visually appealing.
 
-In conclusion, whether solar panels are worth it depends on your specific circumstances, including your location, financial situation, and environmental priorities. For many homeowners, the financial savings, environmental benefits, and potential incentives make solar panels a valuable investment. Explore your options further and find [reputable solar installers in your area](/solar-utility/).
+In conclusion, whether solar panels are worth it depends on your specific circumstances, including your location, financial situation, and environmental priorities. For many homeowners, the financial savings, environmental benefits, and potential incentives make solar panels a valuable investment. Explore your options further and find [reputable solar installers in your area](/solar-calculator/).

@@ -85,7 +85,7 @@ When it comes to finding the best solar installers near you, there are several a
 
 Start your search by looking for local solar installers online. Explore their websites, read customer reviews, and check for certifications and accreditations.
 
-[Solar Installers](/) is a valuable resource. It provides [solar utility](/solar-utility/) information and even a [solar calculator](/solar-calculator/) to estimate potential savings.
+[Solar Installers](/) is a valuable resource. It provides [solar utility](/solar-calculator/) information and even a [solar calculator](/solar-calculator/) to estimate potential savings.
 
 ### Referrals from friends and family
 

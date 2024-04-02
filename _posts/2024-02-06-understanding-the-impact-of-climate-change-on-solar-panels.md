@@ -23,7 +23,7 @@ Climate change is not only causing temperature fluctuations but also altering we
 
 ## Extreme Weather Events and Durability
 
-The frequency and intensity of extreme weather events, such as hurricanes, storms, and wildfires, are on the rise due to climate change. These events pose a threat to the durability and structural integrity of solar panels. While modern [solar panel installations](/solar-utility/) are designed to withstand various weather conditions, the increased occurrence of extreme events requires continuous improvements in resilience. Reinforced mounting structures, impact-resistant materials, and better installation practices are essential to ensuring the longevity of solar panels in the face of an unpredictable climate.
+The frequency and intensity of extreme weather events, such as hurricanes, storms, and wildfires, are on the rise due to climate change. These events pose a threat to the durability and structural integrity of solar panels. While modern [solar panel installations](/solar-calculator/) are designed to withstand various weather conditions, the increased occurrence of extreme events requires continuous improvements in resilience. Reinforced mounting structures, impact-resistant materials, and better installation practices are essential to ensuring the longevity of solar panels in the face of an unpredictable climate.
 
 ## Sea Level Rise and Coastal Installations
 

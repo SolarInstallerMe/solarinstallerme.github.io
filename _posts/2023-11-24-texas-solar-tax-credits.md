@@ -29,7 +29,7 @@ In Texas, many municipal utilities offer attractive solar rebates to customers. 
 
 **Federal Solar Investment Tax Credit (ITC)**
 
-Don’t overlook the Federal Solar ITC, a substantial incentive supporting solar adoption. As of now, it provides a 26% tax credit on the total [cost of solar installation](/solar-calculator-estimate-your-installation-cost-and-savings/), diminishing to 22% in the coming years. Seize this opportunity before it diminishes further.
+Don’t overlook the Federal Solar ITC, a substantial incentive supporting solar adoption. As of now, it provides a 26% tax credit on the total [cost of solar installation](/solar-calculator/-estimate-your-installation-cost-and-savings/), diminishing to 22% in the coming years. Seize this opportunity before it diminishes further.
 
 ## The Texas Advantage: Personal Experiences and Expert Insights
 

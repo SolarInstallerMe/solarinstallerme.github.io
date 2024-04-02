@@ -22,6 +22,7 @@ group :jekyll_plugins do
     gem 'tzinfo'
     gem 'jekyll-loading-lazy'
     gem 'jekyll-compress-images'
+    gem 'html-proofer'
   
  
    

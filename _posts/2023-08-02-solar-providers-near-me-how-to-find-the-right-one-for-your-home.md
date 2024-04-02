@@ -35,7 +35,7 @@ A reputable solar provider will have:
 
 - Satisfied customers
 
-- [Solar Utility](/solar-utility/)
+- [Solar Utility](/solar-calculator/)
 
 - A strong reputation in the industry
 

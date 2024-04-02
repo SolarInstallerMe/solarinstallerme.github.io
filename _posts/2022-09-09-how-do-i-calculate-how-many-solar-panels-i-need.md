@@ -26,7 +26,7 @@ Setting goals is essential before going solar. Do you desire a solar system that
 
 Before deciding how many solar panels to install, you must first determine how much electricity you use in order for your [solar panels to fully offset](/how-to-offset-your-energy-cost-use-with-solar/) it. Reviewing your electric bills from the last 12 months will provide you with this data.
 
-Don’t forget to factor future increases into your annual electricity usage [calculations](/calculator/). Consider how much more energy you will use, for instance, if you decide to install a swimming pool or a station for charging electric cars.
+Don’t forget to factor future increases into your annual electricity usage [calculations](/solar-calculator/). Consider how much more energy you will use, for instance, if you decide to install a swimming pool or a station for charging electric cars.
 
 ### **The efficiency of Solar Panel**
 

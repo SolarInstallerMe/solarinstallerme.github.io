@@ -82,7 +82,7 @@ A 5 kW DIY solar panel kit, however, costs between $1.00 and $1.50 per watt. A 5
 
 This translates to a possible savings of $7,250 to $9,759 when a DIY solar installation is chosen over a professional installation.
 
-Numerous factors, such as the size of your system and whether you are eligible for the solar tax credit (worth 26% of the cost of a solar energy system in 2022) might alter these figures for you. check our [free solar calculator](/[solar-quote-form](/calculator/) to see what solar that fits your needs
+Numerous factors, such as the size of your system and whether you are eligible for the solar tax credit (worth 26% of the cost of a solar energy system in 2022) might alter these figures for you. check our [free solar calculator](/[solar-quote-form](/solar-calculator/) to see what solar that fits your needs
 
 ## **Solar power is very beneficial whether you do it yourself or not**
 

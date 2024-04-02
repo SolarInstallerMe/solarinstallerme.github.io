@@ -41,7 +41,7 @@ One of the primary benefits of hiring professional solar installers is the assur
 
 ## Expertise in Design and Customization
 
-Professional solar installers bring expertise in designing and customizing solar systems based on individual needs. They thoroughly assess your home’s unique characteristics, such as roof orientation, shading, and available space, to determine the most efficient solar panel placement. By leveraging their experience, they can optimize the design of your solar installation, [maximizing solar energy generation and system performance](/solar-utility/). This personalized approach ensures that your solar panels are tailored to your specific requirements, leading to greater energy savings over time.
+Professional solar installers bring expertise in designing and customizing solar systems based on individual needs. They thoroughly assess your home’s unique characteristics, such as roof orientation, shading, and available space, to determine the most efficient solar panel placement. By leveraging their experience, they can optimize the design of your solar installation, [maximizing solar energy generation and system performance](/solar-calculator/). This personalized approach ensures that your solar panels are tailored to your specific requirements, leading to greater energy savings over time.
 
 ## Access to High-Quality Equipment
 
@@ -65,4 +65,4 @@ Hiring professional solar installers for your [home solar installation](/) off
 
 ### **See out how much money a solar energy system will save you.**
 
-[![](images/button_get-a-quote.png)](/solar-utility/)
+[![](images/button_get-a-quote.png)](/solar-calculator/)

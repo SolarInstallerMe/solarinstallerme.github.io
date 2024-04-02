@@ -28,7 +28,7 @@ By installing solar panels, homeowners and businesses can significantly [reduce
 
 ### Government Incentives and Tax Credits
 
-Governments around the world offer incentives, tax credits, and grants to encourage the adoption of solar power. These financial benefits can significantly offset the initial [installation costs](/solar-calculator-estimate-your-installation-cost-and-savings/), making solar power an even more appealing investment.
+Governments around the world offer incentives, tax credits, and grants to encourage the adoption of solar power. These financial benefits can significantly offset the initial [installation costs](/solar-calculator/-estimate-your-installation-cost-and-savings/), making solar power an even more appealing investment.
 
 ## Installation and Maintenance
 

@@ -37,7 +37,7 @@ In the quest for efficient solar energy utilization, the choice between solar tr
 
 ### Solar Trackers:
 
-- The [cost of solar trackers](/solar-calculator-estimate-your-installation-cost-and-savings/), including installation, can be around 20% to 40% higher than fixed panels. However, the increased energy production may offset these costs over time, making solar trackers a viable investment for those prioritizing long-term efficiency.
+- The [cost of solar trackers](/solar-calculator/-estimate-your-installation-cost-and-savings/), including installation, can be around 20% to 40% higher than fixed panels. However, the increased energy production may offset these costs over time, making solar trackers a viable investment for those prioritizing long-term efficiency.
 
 ### Fixed Panels:
 

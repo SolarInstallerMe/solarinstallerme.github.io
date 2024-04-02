@@ -44,7 +44,7 @@ Now that you know the factors that affect the number of solar batteries you need
 
 ### 1. Determine Your Energy Consumption
 
-The first step is to determine your energy consumption. You can do this by looking at your electricity bills or using an [online solar calculator](/calculator/). Once you have your energy consumption, you can use it to calculate the size of your solar panel system.
+The first step is to determine your energy consumption. You can do this by looking at your electricity bills or using an [online solar calculator](/solar-calculator/). Once you have your energy consumption, you can use it to calculate the size of your solar panel system.
 
 ### 2. Determine the Size of Your Solar Panel System
 

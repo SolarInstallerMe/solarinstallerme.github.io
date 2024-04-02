@@ -43,7 +43,7 @@ Sunny Skies Solar is a locally owned and operated solar company that understands
 
 ## **Solar Utility: More Than Just Panels**
 
-Solar panels are a crucial part of any solar energy system, but there’s more to it than just the panels themselves. The [Solar Utility](/solar-utility/) section on our website explores the various components and technologies that make up a solar power system. From inverters to batteries, this resource will help you understand the inner workings of solar energy.
+Solar panels are a crucial part of any solar energy system, but there’s more to it than just the panels themselves. The [Solar Utility](/solar-calculator/) section on our website explores the various components and technologies that make up a solar power system. From inverters to batteries, this resource will help you understand the inner workings of solar energy.
 
 ## **Solar Tax Credits in Texas**
 

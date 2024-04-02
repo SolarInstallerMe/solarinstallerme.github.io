@@ -40,7 +40,7 @@ To calculate the potential savings from the ITC, you can use our [Solar Calcula
 
 In addition to federal incentives, many states offer their own programs to encourage solar adoption. These incentives vary by location but often include:
 
-- **Solar Rebates**: Some states offer cash rebates for installing solar panels. Check if your state provides this incentive on our [Solar Utility](/solar-utility/) page.
+- **Solar Rebates**: Some states offer cash rebates for installing solar panels. Check if your state provides this incentive on our [Solar Utility](/solar-calculator/) page.
 
 - **Property Tax Exemptions**: You might be eligible for property tax exemptions on the added value of your solar installation. Explore the possibilities in your area.
 

@@ -35,7 +35,7 @@ Vivint Solar specializes in delivering a seamless solar experience. They provide
 
 Sunnova is known for its personalized solar solutions. They tailor their offerings to your specific needs, ensuring that you get the most out of your solar investment. With a focus on customer satisfaction, Sunnova provides comprehensive support throughout your solar journey.
 
-[![ Best Solar Companies - Get A quote](images/button_get-a-free-solar-quote.png)](/solar-utility/)
+[![ Best Solar Companies - Get A quote](images/button_get-a-free-solar-quote.png)](/solar-calculator/)
 
 ## **FAQs**
 
